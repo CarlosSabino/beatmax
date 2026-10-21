@@ -1,0 +1,253 @@
+[
+  {
+    "version": "1.16.0",
+    "date": "2026-10-21",
+    "title": "SV do osu!, 8 colunas, fila da Nuvem e avisos",
+    "items": [
+      "VELOCIDADE DO CHART (SV): músicas do osu! com mudanças de velocidade agora aceleram e freiam como no osu! (pontos verdes e trocas de BPM). Liga/desliga em Modificadores › VELOCIDADE DO CHART. Vale pras músicas importadas a partir desta versão — importe de novo as que você já tinha pra ganhar o SV.",
+      "8B em 8 COLUNAS (estilo osu! 8K / EZ2ON): em Modificadores › 8B: TRACK L/R, as TRACK L/R deixam de ser as barras vermelhas e viram duas colunas normais nas pontas. O julgamento e as teclas continuam iguais.",
+      "Imagem por LINK: no Personalizar (imagem na pista) e nas Configurações (fundo) agora tem o botão 🔗 Link… — é só colar o endereço da imagem. Ela é baixada e guardada no jogo (continua funcionando mesmo se o site sair do ar).",
+      "Nuvem: publique VÁRIAS músicas de uma vez — marque as caixinhas e clique em \"Publicar selecionadas\" (ou vá clicando em Publicar em várias). Elas entram numa fila e sobem sozinhas, 2 de cada vez, mesmo com a Nuvem fechada; um aviso no canto mostra o andamento.",
+      "Nuvem: quando alguém te manda uma música (ou um pedido de amizade), aparece um aviso na tela com um botão pra abrir. O jogo confere a cada minuto, e o aviso que chegar durante a partida aparece quando ela termina.",
+      "Botão PAUSA na tela durante a partida (ao lado da velocidade) — feito pro Xbox/controle, sem precisar do Esc. O botão Menu ☰ do controle também pausa.",
+      "Configurações: seletores que ficavam espremidos (como o do Palco 3D em telas menores) agora não cortam mais.",
+      "Textos revisados: o jogo não cita mais o nome de outros jogos (ex.: a posição do combo agora é \"Clássico\" e a gear grafite se chama \"Grafite\"). Os pacotes de chart exportados agora são .bmchart (os antigos continuam abrindo) e o atalho do início automático passa a se chamar BEATMAX Training."
+    ]
+  },
+  {
+    "version": "1.15.0",
+    "date": "2026-10-21",
+    "title": "Favoritas, correções de modo/Fade Out e Xbox",
+    "items": [
+      "MÚSICAS FAVORITAS: clique na estrela ☆ do card (ou aperte F na lista / Ⓧ no controle). A estrela vale pra música toda (todas as dificuldades e modos). Elas aparecem primeiro na lista, numa seção ★ Favoritas, e têm uma aba própria. Cada perfil tem as suas.",
+      "Corrigido: dava pra escolher uma música 4B, clicar em 5B e jogar o chart 4B no modo 5B (e isso contava nos desafios). Agora a música SEMPRE toca no modo em que foi feita.",
+      "Os botões 4B/5B/6B/8B lá em cima agora filtram a lista: só aparece o que é daquele modo. Se a música selecionada também existe no novo modo, ela continua selecionada; se não, o jogo escolhe outra. \"Todos os modos\" no filtro continua mostrando tudo.",
+      "Beatcoins: o saldo não \"volta\" mais se o jogo estiver aberto em duas janelas/abas (cada uma relê as moedas antes de mexer). Se o navegador não conseguir salvar, aparece um aviso.",
+      "FADE OUT: as notas longas não somem mais inteiras — a cauda continua aparecendo e a nota some entrando na linha do fade.",
+      "Novo FADER: FADE OUT 2 — as notas somem já na metade de cima da pista.",
+      "Palco 3D: nova opção do tamanho das ondas dos acertos (grandes, médias, pequenas ou sem ondas). As luzes e o brilho continuam.",
+      "Prévia do chart: botão 3D · PISTA — a pista reta, como a gear, com a cor da sua skin.",
+      "Versão web (Xbox): o botão B / Esc não fecha mais a página — vira o \"voltar\" do jogo (fecha a janela ou a pausa). Se o navegador ainda tentar sair, pergunta antes."
+    ]
+  },
+  {
+    "version": "1.14.0",
+    "date": "2026-10-21",
+    "title": "Controle nos menus e versão web (Xbox)",
+    "items": [
+      "Menus pelo controle: na lista, direcional/analógico escolhe a música (↑↓) e a dificuldade (←→), Ⓐ joga, LB/RB pula de 6 em 6, LT/RT troca o modo (4B/5B/6B/8B), Ⓨ abre os Desafios e View abre as Configurações. Uma barrinha no rodapé mostra os botões quando tem controle ligado.",
+      "Nas janelas (pausa, resultado, configurações, desafios, loja, novidades…): o direcional move o destaque, Ⓐ confirma, Ⓑ volta/fecha e ←→ muda opções e barrinhas. No resultado: Ⓧ recomeça e Ⓨ abre a análise detalhada.",
+      "Ao terminar a música com o botão ainda apertado, o resultado não fecha sozinho: o controle só volta a valer no menu depois de soltar.",
+      "Calibrador BEATMAX funciona com o controle (os botões das lanes contam como toque, com o horário exato do controle).",
+      "VERSÃO WEB: dá pra publicar o BEATMAX como site (publicar-web.bat) e jogar no navegador — inclusive no Microsoft Edge do Xbox. No site: sem botão Sair e sem atualizações (ele já abre sempre na versão nova), busca do osu! desligada (importar .osz continua), Palco 3D começa na qualidade Leve e o navegador é avisado pra guardar os dados de vez."
+    ]
+  },
+  {
+    "version": "1.13.2",
+    "date": "2026-10-20",
+    "title": "Palco 3D e gears exclusivas mais leves",
+    "items": [
+      "Efeitos das gears exclusivas bem mais leves: a Aurora Boreal usava um brilho (desfoque) muito pesado — agora o brilho é feito em camadas, com o mesmo visual e uma fração do custo. As camadas de efeito também não multiplicam mais pelo zoom do Windows.",
+      "Palco 3D mais leve: resolução calculada por um limite de pixels (o cenário é suave, ninguém nota a diferença) e, se o PC ainda perder quadros, a qualidade Automática baixa a resolução e depois passa o palco pra 30 fps — o jogo e as notas continuam a 60.",
+      "O jogo não pede mais a posição da gear na tela a cada quadro (isso forçava o navegador a recalcular a página no meio da partida).",
+      "Tela de resultado: se a partida teve muitas travadas, a Fluidez diz quais efeitos estavam ligados e o Timing avisa pra NÃO mexer na sincronia por causa dela (com o jogo engasgando, as notas aparecem atrasadas e o toque sai SLOW)."
+    ]
+  },
+  {
+    "version": "1.13.1",
+    "date": "2026-10-20",
+    "title": "Chuva de Beatcoins",
+    "items": [
+      "Beatcoin redesenhada em alta qualidade: aparece mais nítida no topo, nos desafios e na loja.",
+      "Concluiu um desafio? Agora tem comemoração: uma janela com chuva de Beatcoins, o +X subindo com som de moeda e o seu saldo atualizando na hora.",
+      "Chuva leve no Desafio do Dia; chuva forte nos Desafios Semanais e quando você conclui com P (100%). Se ganhar o diário e um semanal na mesma partida, aparece tudo junto numa tela só.",
+      "Enter, Esc ou clique fecham a comemoração (sem pular a tela de resultado).",
+      "Configurações › Gear e fundo: liga/desliga a comemoração (desligada, mostra só o aviso) e botão Ver pra assistir uma prévia."
+    ]
+  },
+  {
+    "version": "1.13.0",
+    "date": "2026-10-20",
+    "title": "Desafios Semanais e prévia do chart",
+    "items": [
+      "DESAFIOS SEMANAIS (renovam toda segunda): 💎 Notas perfeitas na semana (0/10.000, dificuldades maiores valem mais), 🎵 Músicas diferentes concluídas (0/10 — repetir não conta, mas outra dificuldade ou outro modo conta) e 🎹 Concluir em 4B, 5B, 6B e 8B. Recompensas de 30 a 40 Beatcoins.",
+      "Completou uma missão semanal com uma partida 100%? +10 de bônus.",
+      "A tela de desafios mostra o Desafio do Dia e os Semanais lado a lado, com barras de progresso.",
+      "PRÉVIA DO CHART na seleção (inspirada no Spin Rhythm XD): uma pistinha em perspectiva com as notas de verdade da música/dificuldade selecionada. Nas músicas com áudio ela anda junto com a prévia da música; trocar a dificuldade (← →) troca a prévia na hora."
+    ]
+  },
+  {
+    "version": "1.12.1",
+    "date": "2026-10-19",
+    "title": "Beatcoin com a cara do jogo",
+    "items": [
+      "A Beatcoin ganhou visual próprio: moeda dourada com o rosto da personagem do BEATMAX em cores.",
+      "Saldo bem claro: o popup do Desafio do Dia e a Loja mostram \"SEU SALDO: X Beatcoins\" em destaque, e os preços na loja aparecem com a moeda.",
+      "Configurações maiores, aproveitando a tela cheia: até 3 colunas em telas grandes e letras maiores.",
+      "Botões do topo mais compactos em telas menores, pra não quebrar linha."
+    ]
+  },
+  {
+    "version": "1.12.0",
+    "date": "2026-10-19",
+    "title": "Desafio do Dia, Beatcoins e Loja",
+    "items": [
+      "DESAFIO DO DIA: todo dia um treino sorteado, com dificuldade e meta de precisão. O convite aparece ao abrir o jogo (uma vez por dia, até você concluir) e dá pra abrir de novo pelo ícone de moeda no topo.",
+      "Pra ganhar as 10 Beatcoins: música inteira, sem zerar o HP, velocidade 100% e nota mínima — S (97%) no NORMAL e HARD, A (93%) no EXPERT e A (90%) no MASTER. Bônus pela nota: S +5 e P (100%) +10. Vale uma vez por dia, e o jogo conta a sua sequência de dias seguidos 🔥.",
+      "LOJA BEATMAX: 6 gears exclusivas pra comprar com as Beatcoins (Aurora Boreal, Magma, Oceano Profundo, Sakura Noturna, Ouro Real e Vazio Cósmico). Tudo grátis — é só jogar.",
+      "Cada gear exclusiva tem efeito animado próprio nas laterais: Magma com paredes de lava borbulhando e brasas, Sakura com pétalas de cerejeira caindo, Aurora com cortinas de aurora, Oceano com bolhas e raios de luz, Ouro com brilhos e pó dourado, e Vazio Cósmico com estrelas em órbita e cometas. Os acertos soltam mais partículas e tudo pulsa na batida — nunca cobre as notas.",
+      "As gears compradas aparecem no seletor de Gear Skin em \"Exclusivas (loja)\". Moedas e compras são de cada perfil e entram no backup.",
+      "Configurações › Gear e fundo: liga/desliga os efeitos das gears exclusivas e escolhe a quantidade de partículas."
+    ]
+  },
+  {
+    "version": "1.11.0",
+    "date": "2026-10-19",
+    "title": "Palco 3D, teclado na lista e sincronia",
+    "items": [
+      "Palco 3D atrás da gear (no Personalizar, com prévia ao vivo atrás da gear, ou em Configurações › Gear e fundo): Túnel neon, Galáxia ou Synthwave. Anda no ritmo do BPM, pulsa em cada batida, solta ondas nos acertos, ganha energia com o combo e pisca vermelho no erro. A gear e as notas não mudam, então a sincronia continua igual.",
+      "Lista de músicas pelo teclado: ↑/↓ escolhe a música, ←/→ a dificuldade e Enter começa (PageUp/PageDown e Home/End também andam na lista).",
+      "Tela de resultado mostra a Fluidez da partida: fps e quantas travadas (quadros que engasgaram) aconteceram.",
+      "Aviso de saída de áudio lenta (típico de fone Bluetooth): aparece ao começar uma partida, no Calibrador e nas Configurações, com o atraso em ms.",
+      "O Calibrador agora agenda a batida com a mesma compensação de atraso de áudio do jogo.",
+      "Resultado das músicas mostra a dificuldade da música (EASY/NORMAL/HARD/EXPERT/MASTER).",
+      "Dificuldade dos treinos com nomes próprios: NORMAL, HARD, EXPERT e MASTER (antes NM/HD/MX/SC). Recordes e replays continuam valendo.",
+      "Com uma música selecionada, o painel mostra a dificuldade DELA (e a da gear também), já que a dificuldade de treino não vale pra música."
+    ]
+  },
+  {
+    "version": "1.10.0",
+    "date": "2026-10-15",
+    "title": "Dificuldades das músicas",
+    "items": [
+      "As dificuldades da mesma música (mesmo modo de botões) agora ficam num card só, com as dificuldades lado a lado: EASY, NORMAL, HARD, EXPERT e MASTER, com nível de 1 a 15.",
+      "Com a música selecionada, ← / → troca a dificuldade (ou clique direto nela). A escolhida fica destacada e o jogo lembra a última de cada música.",
+      "Músicas do osu! mostram o nome original da dificuldade e o nível estimado pelas estrelas (marcado com ≈).",
+      "Chart Editor: novo campo DIFICULDADE (categoria + nível). Em Auto, o nível é estimado pela quantidade de notas. Charts com o mesmo nome e modo aparecem juntos como dificuldades da mesma música.",
+      "Ícone discreto de filme nas músicas que têm vídeo de fundo."
+    ]
+  },
+  {
+    "version": "1.9.1",
+    "date": "2026-10-12",
+    "title": "Calibrador BEATMAX automático",
+    "items": [
+      "Calibrador BEATMAX (Configurações › Sincronia): as notas caem na sua gear e velocidade por cerca de 30 segundos e o jogo calcula e aplica o Ajuste de Julgamento sozinho.",
+      "Avisos claros de início e fim: contagem PREPARE-SE 3-2-1, COMEÇOU!, tempo restante durante a coleta, TERMINA EM 3-2-1 e FIM DA COLETA (com dois bipes).",
+      "O resultado mostra o ajuste, a variação dos toques e a consistência; descarta o aquecimento e os toques muito fora, e não aplica se os toques variarem demais.",
+      "Botão pra calibrar também numa segunda velocidade, ativando a compensação automática por velocidade. Dá pra desfazer.",
+      "A calibração antiga continua como \"Com áudio (música)\", que também acerta o Offset de Áudio."
+    ]
+  },
+  {
+    "version": "1.9.0",
+    "date": "2026-10-12",
+    "title": "Tela de calibração",
+    "items": [
+      "Nova tela de calibração (Configurações › Sincronia › Tela de calibração): as notas caem na sua gear, na sua velocidade, com batida de metrônomo.",
+      "A cada toque aparece quanto você bateu adiantado (FAST) ou atrasado (SLOW), a média ao vivo e uma barra com os últimos toques.",
+      "Ajuste com ←/→ e veja a média ir pro zero na hora, ou aperte A pra zerar pela média automaticamente.",
+      "Troque a velocidade com ↑/↓ e salve (Enter) em duas velocidades diferentes: daí o jogo acerta a sincronia sozinho em qualquer velocidade."
+    ]
+  },
+  {
+    "version": "1.8.2",
+    "date": "2026-10-12",
+    "title": "Novidades no jogo",
+    "items": [
+      "Nova tela de Novidades: mostra tudo o que mudou em cada versão, inclusive a próxima que estiver disponível.",
+      "Depois de uma atualização (automática ou não), o jogo mostra sozinho o que mudou na primeira vez que abrir.",
+      "Ícone de presente ao lado da versão, com um pontinho quando tem novidade que você ainda não viu."
+    ]
+  },
+  {
+    "version": "1.8.1",
+    "date": "2026-10-12",
+    "title": "Botão Sair e velocidade na prévia da gear",
+    "items": [
+      "Botão Sair no topo: se o último backup está desatualizado, avisa e oferece salvar um backup das suas músicas antes de fechar. Se está em dia, só fecha.",
+      "Personalizar gear: controle de velocidade das notas na prévia, começando na sua velocidade do jogo, com botão pra usar a nova velocidade nas partidas."
+    ]
+  },
+  {
+    "version": "1.8.0",
+    "date": "2026-10-11",
+    "title": "Chart Editor repaginado",
+    "items": [
+      "Régua de linhas: clique seleciona a linha inteira, arrastar seleciona várias, duplo clique seleciona o compasso, botão direito arrastando apaga.",
+      "Painel Trecho: selecionar ou limpar tudo entre duas seções/pins (ou só uma coluna).",
+      "Alt + botão direito arrastando apaga só na coluna onde começou.",
+      "Cabeçalho das trilhas alinhado com a grade; grade mais larga aproveitando a tela cheia.",
+      "Ferramentas, dicas e atalhos em letra legível; tela com todos os atalhos (F1); barra de status e posição do mouse."
+    ]
+  },
+  {
+    "version": "1.7.1",
+    "date": "2026-10-11",
+    "title": "Apagar rápido no editor e tela cheia",
+    "items": [
+      "Chart Editor: botão direito arrastando apaga (numa nota = borracha, no vazio = caixa); Shift+Delete apaga o compasso, Ctrl+Shift+Delete só a coluna.",
+      "O jogo já abre em tela cheia.",
+      "Corrigido o aviso falso de 'alterações não salvas' ao abrir o editor."
+    ]
+  },
+  {
+    "version": "1.7.0",
+    "date": "2026-10-11",
+    "title": "Nova tela de resultado",
+    "items": [
+      "Tela de conclusão: emblema com precisão e pontuação, detalhes dos julgamentos, recorde com gráfico, sincronia e pontos fracos com 'Treinar em loop'.",
+      "Atalhos: F5/F8 repetir, R replay, D detalhes, Enter OK."
+    ]
+  },
+  {
+    "version": "1.6.0",
+    "date": "2026-10-11",
+    "title": "Calibração por velocidade e perfis",
+    "items": [
+      "A sincronia não desanda mais ao trocar a velocidade: calibrando em duas velocidades diferentes, o jogo compensa sozinho.",
+      "Perfis de jogador: cada um com a própria velocidade, calibração, teclas, skin e recordes ('Quem vai jogar?')."
+    ]
+  },
+  {
+    "version": "1.5.0",
+    "date": "2026-10-10",
+    "title": "Modificadores, tela cheia e prévia das músicas",
+    "items": [
+      "Modificadores: MIRROR/RANDOM/HALF RANDOM, velocidade CHAOS (SLIDE UP/DOWN, CHAOS W, SPECIAL CHAOS), FADER (FADE IN/OUT, BLINK) e FOG.",
+      "Conteúdo em tela cheia, inclusive nas partidas.",
+      "Prévia da música ao selecionar.",
+      "Treinos exclusivos do 8B usando TRACK L/R e side, e recorde separado por modo."
+    ]
+  },
+  {
+    "version": "1.4.0",
+    "date": "2026-10-10",
+    "title": "BEATMAX Training: Nuvem, Personalizar e backup",
+    "items": [
+      "O jogo passou a se chamar BEATMAX Training.",
+      "Nuvem: conta com apelido e senha, amigos e compartilhamento de charts.",
+      "Personalizar gear: crie e use as suas próprias skins.",
+      "Charts e skins guardados de um jeito que não fica mais 'sem espaço'.",
+      "Backup em arquivo .zip (aguenta bibliotecas grandes).",
+      "Versões 1.4.1 a 1.4.4: correções nessas novidades."
+    ]
+  },
+  {
+    "version": "1.3.0",
+    "date": "2026-10-09",
+    "title": "Atualização automática",
+    "items": [
+      "O jogo procura e instala as versões novas sozinho (pode desligar).",
+      "Configurações não ficam mais escondidas atrás do Chart Editor e das Músicas osu!."
+    ]
+  },
+  {
+    "version": "1.2.0",
+    "date": "2026-10-09",
+    "title": "Instalador",
+    "items": [
+      "Primeira versão com instalador para Windows e atualizações pelo GitHub."
+    ]
+  }
+]
