@@ -1,0 +1,96 @@
+{
+  "version": "1.22.1",
+  "notes": "PERSONALIZAR NOVO (menu › SKINS): o visual agora é montado em 5 partes separadas — GEAR, NOTA, EFEITO DE ACERTO, CORES DAS NOTAS e EFEITO DA GEAR. Dá pra combinar à vontade: notas Vinil com o efeito do Pixel 8-bit, a gear Neon Roxo com a animação de lava do Magma, as cores de uma skin sua sem trocar a gear… PRÉVIA AO VIVO e TESTAR NA PISTA: tudo o que você escolhe aparece na hora, e o botão Testar joga 45 segundos com aquele visual (com aviso nos últimos 10 s e saída suave) — até com itens que você ainda não tem (o teste não dá EXP nem conta no ranking). Os itens da Loja aparecem com cadeado e preço direto no Personalizar: testou, gostou, compra ali mesmo. EFEITO DA GEAR: opção pra animação das laterais cobrir a gear inteira (até o painel de baixo) em vez de parar na linha de julgamento. CORES DAS NOTAS virou uma parte própria: usar as cores de uma skin sua não troca mais a gear nem o formato da nota. Novo efeito de acerto CHUVA DE BEATCOINS (vem com a skin Moedinhas): moedinhas pulando da linha a cada acerto, com qualquer nota. Charts criados no editor, importados de arquivo ou baixados da Nuvem agora dão EXP, com regras próprias pra não virar farm. Precisam de pelo menos 60 segundos e 100 notas. As estrelas usadas na EXP são calculadas pelo jogo a partir das notas (o menor entre o cálculo e o que o autor marcou) — marcar 15★ num chart fácil não adianta. Seus próprios charts rendem 50% da EXP, sem o bônus de 1ª conclusão, até 1.500 EXP por dia. Charts de outros jogadores baixados pela Nuvem rendem normal. Continuam valendo as regras de sempre: depois de concluir, o chart rende 35%, e bater o recorde devolve a EXP cheia. O Ranking continua só pra treinos e músicas do osu! originais. Atualizações de volta à vista: a versão aparece no canto do menu (clique pra procurar atualização, ligar/desligar a instalação automática e atualizar). Quando sai versão nova, aparece um aviso verde \"ATUALIZAR\" no menu e na seleção de música. A prévia do Personalizar agora desenha a gear igualzinha à do jogo (mesmas proporções, painel, notas longas e efeitos). Corrigido: o teste de visual podia virar uma partida normal e contar pontos/EXP. Agora nada conta durante o teste e você não 'morre' no meio dele. Atualizações: o jogo agora confere novas versões ao abrir e a cada 30 minutos (antes podia demorar horas pra perceber).",
+  "title": "Personalizar do seu jeito, charts do editor com EXP",
+  "items": [
+    "PERSONALIZAR NOVO (menu › SKINS): o visual agora é montado em 5 partes separadas — GEAR, NOTA, EFEITO DE ACERTO, CORES DAS NOTAS e EFEITO DA GEAR. Dá pra combinar à vontade: notas Vinil com o efeito do Pixel 8-bit, a gear Neon Roxo com a animação de lava do Magma, as cores de uma skin sua sem trocar a gear…",
+    "PRÉVIA AO VIVO e TESTAR NA PISTA: tudo o que você escolhe aparece na hora, e o botão Testar joga 45 segundos com aquele visual (com aviso nos últimos 10 s e saída suave) — até com itens que você ainda não tem (o teste não dá EXP nem conta no ranking).",
+    "Os itens da Loja aparecem com cadeado e preço direto no Personalizar: testou, gostou, compra ali mesmo.",
+    "EFEITO DA GEAR: opção pra animação das laterais cobrir a gear inteira (até o painel de baixo) em vez de parar na linha de julgamento.",
+    "CORES DAS NOTAS virou uma parte própria: usar as cores de uma skin sua não troca mais a gear nem o formato da nota.",
+    "Novo efeito de acerto CHUVA DE BEATCOINS (vem com a skin Moedinhas): moedinhas pulando da linha a cada acerto, com qualquer nota.",
+    "Charts criados no editor, importados de arquivo ou baixados da Nuvem agora dão EXP, com regras próprias pra não virar farm.",
+    "Precisam de pelo menos 60 segundos e 100 notas. As estrelas usadas na EXP são calculadas pelo jogo a partir das notas (o menor entre o cálculo e o que o autor marcou) — marcar 15★ num chart fácil não adianta.",
+    "Seus próprios charts rendem 50% da EXP, sem o bônus de 1ª conclusão, até 1.500 EXP por dia. Charts de outros jogadores baixados pela Nuvem rendem normal.",
+    "Continuam valendo as regras de sempre: depois de concluir, o chart rende 35%, e bater o recorde devolve a EXP cheia.",
+    "O Ranking continua só pra treinos e músicas do osu! originais.",
+    "Atualizações de volta à vista: a versão aparece no canto do menu (clique pra procurar atualização, ligar/desligar a instalação automática e atualizar). Quando sai versão nova, aparece um aviso verde \"ATUALIZAR\" no menu e na seleção de música.",
+    "A prévia do Personalizar agora desenha a gear igualzinha à do jogo (mesmas proporções, painel, notas longas e efeitos).",
+    "Corrigido: o teste de visual podia virar uma partida normal e contar pontos/EXP. Agora nada conta durante o teste e você não 'morre' no meio dele.",
+    "Atualizações: o jogo agora confere novas versões ao abrir e a cada 30 minutos (antes podia demorar horas pra perceber)."
+  ],
+  "zip": "djmax-training-1.22.1.zip",
+  "sha256": "4b36ba3613d844fe61aeae994fe6ff806adbb519e5f758addf7f7008dce1e490",
+  "historico": [
+    {
+      "version": "1.22.0",
+      "title": "Ranking online e skin Moedinhas",
+      "items": [
+        "RANKING ONLINE: cada treino e cada música do osu! tem o seu ranking, com os melhores resultados de todos os jogadores. Abra pelo bloco RANKING no menu (tecla 8) ou pelo troféu na seleção de música. Use a mesma conta da Nuvem.",
+        "Entram no ranking: treinos e músicas do osu! sem edição, música inteira, sem falhar, velocidade 100%. Cada julgamento (Normal, Difícil, Máximo) tem o próprio ranking e só o seu melhor resultado fica guardado — o servidor confere os números antes de aceitar.",
+        "Na tela de resultado aparece a sua posição (ex.: \"recorde! #3 de 12\"). Sem internet, o resultado fica guardado e é enviado depois.",
+        "Aba MEUS RECORDES: todas as músicas em que você está no ranking.",
+        "NOVA SKIN DE NOTA na Loja: MOEDINHAS (150). Notas de moedas pixeladas de ouro e prata, holds em barra de prata e, a cada acerto, várias moedinhas pulam girando da linha de julgamento.",
+        "A Echo agora apresenta o Ranking, e a Arya comemora com você na tela de LEVEL UP com uma arte nova.",
+        "EDITOR: novo botão \"Salvar em Meus charts\" — faz uma cópia independente do chart (por exemplo, uma música do osu!) com o áudio junto, pra você modificar do seu jeito. A original continua intacta e a cópia aparece em Meus charts."
+      ]
+    },
+    {
+      "version": "1.21.1",
+      "title": "EXP mais justa",
+      "items": [
+        "Corrigido: toda música contava como \"primeira vez\" e o bônus de +20% vinha sempre. Agora o jogo lembra direito quais charts você já concluiu.",
+        "Depois da 1ª conclusão, o mesmo chart rende só 35% da EXP. Bateu o recorde por pelo menos 1 ponto (ou subiu de nota)? Aí ganha a EXP cheia de novo — no máximo 2 vezes por dia por chart.",
+        "Músicas com menos de 30 segundos ou menos de 30 notas não dão mais EXP.",
+        "Charts criados ou editados no editor (inclusive músicas do osu! alteradas) e a calibração não dão EXP por enquanto — mudar a dificuldade pra 15★ não vale mais.",
+        "Na tela de resultado aparece o motivo quando a partida não deu EXP (passe o mouse na barra de nível)."
+      ]
+    },
+    {
+      "version": "1.21.0",
+      "title": "Menu novo, organizado",
+      "items": [
+        "MENU INICIAL NOVO: ao abrir o jogo aparecem os módulos em blocos grandes (Loja, Treinos, Músicas osu!, Desafios, Nuvem, Editor, Análise). Embaixo ficam suas Beatcoins, seu nível, o botão JOGAR e os atalhos (Perfil, Nível, Skins, Novidades, Configurações, Backup). Use setas e Enter, ou o controle.",
+        "SELEÇÃO DE MÚSICA mais limpa: à esquerda só a música, o modo 4B/5B/6B/8B, a dificuldade, o seu recorde e o resumo do equipamento; à direita a lista. Esc volta pro menu e Tab troca o modo.",
+        "JANELA DE EQUIPAMENTO (tecla Space): Speed, Random, Lane Cover, Chaos, Fader, SV, Track L/R, skins e velocidade da música ficam todos juntos, separados em abas (Efeitos, Visual e Música). Setas ajustam e Backspace desliga todos os efeitos.",
+        "Depois de jogar, o Enter no resultado volta direto pra seleção de música."
+      ]
+    },
+    {
+      "version": "1.20.0",
+      "title": "Iris, Echo e Arya ganham seus lugares",
+      "items": [
+        "Novas personagens! A IRIS cuida da Loja BEATMAX: ela recebe você, avisa quanto falta para o próximo item e comemora cada compra.",
+        "A ECHO fica no painel de Nível: mostra quanto EXP falta, qual é a próxima recompensa e dá dicas para subir mais rápido.",
+        "A ARYA agora acena na tela de Desafios, anunciando o desafio do dia, e também na tela \"Quem vai jogar?\".",
+        "Cada personagem tem várias falas diferentes, que variam toda vez que a janela abre.",
+        "As personagens aparecem em telas largas (1240 px ou mais); em telas menores as janelas continuam como antes."
+      ]
+    },
+    {
+      "version": "1.19.0",
+      "title": "Loja: skins de notas exclusivas",
+      "items": [
+        "6 SKINS DE NOTAS NA LOJA: Seatus (120), Vinil (110), Cristal (100), Chama (90), Neon Tube (80) e Pixel 8-bit (60). Cada uma muda a nota, o hold e o efeito ao acertar, e combina com qualquer gear.",
+        "Seatus: círculos com anel de marcações girando, anéis duplos e linha de varredura no acerto, com laterais ciano e centro rosa.",
+        "Neon Tube solta faíscas elétricas no acerto, Cristal solta estilhaços, Pixel 8-bit explode em pixels com \"+1\", Chama tem rastro de fogo e labareda, e Vinil é um disco girando que espalha uma onda sonora pela gear.",
+        "Na Loja cada skin tem uma prévia animada. Depois de comprar, ela aparece em Note Skin › Exclusivas (loja).",
+        "Funcionam na gear clássica e na Gear 3D, com WebGL ou sem."
+      ]
+    },
+    {
+      "version": "1.18.0",
+      "title": "Nível do jogador (Lv 1 → 100) e acertos",
+      "items": [
+        "NÍVEL DO JOGADOR: cada música jogada dá EXP e você sobe do Lv 1 ao Lv 100 (e continua depois, bem mais difícil). O Lv aparece no topo, ao lado do seu perfil — clique pra ver o progresso, as recompensas e como ganhar EXP.",
+        "EXP por música: 45 + 27 × estrelas, até +10% em músicas longas e de ×0,70 a ×1,15 pelo desempenho (100% = ×1,15). Primeira conclusão de um chart: +20%. Repetir o mesmo chart muitas vezes no dia rende menos — variar compensa!",
+        "Falhou ou treinou só um trecho? Ganha só pela parte jogada, sempre menos que concluir. Música abaixo de 100% de velocidade rende proporcionalmente menos.",
+        "Desafio do dia dá +250 EXP e cada desafio semanal +500 EXP.",
+        "Recompensas: Beatcoins a cada 5 níveis, um título novo a cada 10 (Aprendiz do Ritmo, Ritmista, Groove Runner… até Lenda BEATMAX no Lv 100) e molduras Bronze, Prata, Ouro e Prisma nos Lv 25, 50, 75 e 100. Escolha título e moldura no painel do nível.",
+        "Na tela de resultado aparece a EXP ganha com a barra enchendo (passe o mouse pra ver a conta). Subiu de nível com recompensa? A Arya comemora com você!",
+        "Corrigido: Enter na tela de resultado agora só confirma e volta pro menu (antes começava a música de novo).",
+        "Corrigido: favoritar uma música não muda mais a posição dela na lista — dá pra favoritar várias seguidas. Elas aparecem juntas na aba ★ Favoritas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": "1.21.1",
+  "notes": "Corrigido: toda música contava como \"primeira vez\" e o bônus de +20% vinha sempre. Agora o jogo lembra direito quais charts você já concluiu. Depois da 1ª conclusão, o mesmo chart rende só 35% da EXP. Bateu o recorde por pelo menos 1 ponto (ou subiu de nota)? Aí ganha a EXP cheia de novo — no máximo 2 vezes por dia por chart. Músicas com menos de 30 segundos ou menos de 30 notas não dão mais EXP. Charts criados ou editados no editor (inclusive músicas do osu! alteradas) e a calibração não dão EXP por enquanto — mudar a dificuldade pra 15★ não vale mais. Na tela de resultado aparece o motivo quando a partida não deu EXP (passe o mouse na barra de nível).",
+  "title": "EXP mais justa",
+  "items": [
+    "Corrigido: toda música contava como \"primeira vez\" e o bônus de +20% vinha sempre. Agora o jogo lembra direito quais charts você já concluiu.",
+    "Depois da 1ª conclusão, o mesmo chart rende só 35% da EXP. Bateu o recorde por pelo menos 1 ponto (ou subiu de nota)? Aí ganha a EXP cheia de novo — no máximo 2 vezes por dia por chart.",
+    "Músicas com menos de 30 segundos ou menos de 30 notas não dão mais EXP.",
+    "Charts criados ou editados no editor (inclusive músicas do osu! alteradas) e a calibração não dão EXP por enquanto — mudar a dificuldade pra 15★ não vale mais.",
+    "Na tela de resultado aparece o motivo quando a partida não deu EXP (passe o mouse na barra de nível)."
+  ],
+  "zip": "djmax-training-1.21.1.zip",
+  "sha256": "4c982be2e6e24286622a5f92cd6f3e87a2c03641e5bda327379b11d297ce421d",
+  "historico": [
+    {
+      "version": "1.21.0",
+      "title": "Menu novo, organizado",
+      "items": [
+        "MENU INICIAL NOVO: ao abrir o jogo aparecem os módulos em blocos grandes (Loja, Treinos, Músicas osu!, Desafios, Nuvem, Editor, Análise). Embaixo ficam suas Beatcoins, seu nível, o botão JOGAR e os atalhos (Perfil, Nível, Skins, Novidades, Configurações, Backup). Use setas e Enter, ou o controle.",
+        "SELEÇÃO DE MÚSICA mais limpa: à esquerda só a música, o modo 4B/5B/6B/8B, a dificuldade, o seu recorde e o resumo do equipamento; à direita a lista. Esc volta pro menu e Tab troca o modo.",
+        "JANELA DE EQUIPAMENTO (tecla Space): Speed, Random, Lane Cover, Chaos, Fader, SV, Track L/R, skins e velocidade da música ficam todos juntos, separados em abas (Efeitos, Visual e Música). Setas ajustam e Backspace desliga todos os efeitos.",
+        "Depois de jogar, o Enter no resultado volta direto pra seleção de música."
+      ]
+    },
+    {
+      "version": "1.20.0",
+      "title": "Iris, Echo e Arya ganham seus lugares",
+      "items": [
+        "Novas personagens! A IRIS cuida da Loja BEATMAX: ela recebe você, avisa quanto falta para o próximo item e comemora cada compra.",
+        "A ECHO fica no painel de Nível: mostra quanto EXP falta, qual é a próxima recompensa e dá dicas para subir mais rápido.",
+        "A ARYA agora acena na tela de Desafios, anunciando o desafio do dia, e também na tela \"Quem vai jogar?\".",
+        "Cada personagem tem várias falas diferentes, que variam toda vez que a janela abre.",
+        "As personagens aparecem em telas largas (1240 px ou mais); em telas menores as janelas continuam como antes."
+      ]
+    },
+    {
+      "version": "1.19.0",
+      "title": "Loja: skins de notas exclusivas",
+      "items": [
+        "6 SKINS DE NOTAS NA LOJA: Seatus (120), Vinil (110), Cristal (100), Chama (90), Neon Tube (80) e Pixel 8-bit (60). Cada uma muda a nota, o hold e o efeito ao acertar, e combina com qualquer gear.",
+        "Seatus: círculos com anel de marcações girando, anéis duplos e linha de varredura no acerto, com laterais ciano e centro rosa.",
+        "Neon Tube solta faíscas elétricas no acerto, Cristal solta estilhaços, Pixel 8-bit explode em pixels com \"+1\", Chama tem rastro de fogo e labareda, e Vinil é um disco girando que espalha uma onda sonora pela gear.",
+        "Na Loja cada skin tem uma prévia animada. Depois de comprar, ela aparece em Note Skin › Exclusivas (loja).",
+        "Funcionam na gear clássica e na Gear 3D, com WebGL ou sem."
+      ]
+    },
+    {
+      "version": "1.18.0",
+      "title": "Nível do jogador (Lv 1 → 100) e acertos",
+      "items": [
+        "NÍVEL DO JOGADOR: cada música jogada dá EXP e você sobe do Lv 1 ao Lv 100 (e continua depois, bem mais difícil). O Lv aparece no topo, ao lado do seu perfil — clique pra ver o progresso, as recompensas e como ganhar EXP.",
+        "EXP por música: 45 + 27 × estrelas, até +10% em músicas longas e de ×0,70 a ×1,15 pelo desempenho (100% = ×1,15). Primeira conclusão de um chart: +20%. Repetir o mesmo chart muitas vezes no dia rende menos — variar compensa!",
+        "Falhou ou treinou só um trecho? Ganha só pela parte jogada, sempre menos que concluir. Música abaixo de 100% de velocidade rende proporcionalmente menos.",
+        "Desafio do dia dá +250 EXP e cada desafio semanal +500 EXP.",
+        "Recompensas: Beatcoins a cada 5 níveis, um título novo a cada 10 (Aprendiz do Ritmo, Ritmista, Groove Runner… até Lenda BEATMAX no Lv 100) e molduras Bronze, Prata, Ouro e Prisma nos Lv 25, 50, 75 e 100. Escolha título e moldura no painel do nível.",
+        "Na tela de resultado aparece a EXP ganha com a barra enchendo (passe o mouse pra ver a conta). Subiu de nível com recompensa? A Arya comemora com você!",
+        "Corrigido: Enter na tela de resultado agora só confirma e volta pro menu (antes começava a música de novo).",
+        "Corrigido: favoritar uma música não muda mais a posição dela na lista — dá pra favoritar várias seguidas. Elas aparecem juntas na aba ★ Favoritas."
+      ]
+    }
+  ]
+}
