@@ -1,0 +1,13 @@
+{
+  "version": "1.12.1",
+  "notes": "A Beatcoin ganhou visual próprio: moeda dourada com o rosto da personagem do BEATMAX em cores. Saldo bem claro: o popup do Desafio do Dia e a Loja mostram \"SEU SALDO: X Beatcoins\" em destaque, e os preços na loja aparecem com a moeda. Configurações maiores, aproveitando a tela cheia: até 3 colunas em telas grandes e letras maiores. Botões do topo mais compactos em telas menores, pra não quebrar linha.",
+  "title": "Beatcoin com a cara do jogo",
+  "items": [
+    "A Beatcoin ganhou visual próprio: moeda dourada com o rosto da personagem do BEATMAX em cores.",
+    "Saldo bem claro: o popup do Desafio do Dia e a Loja mostram \"SEU SALDO: X Beatcoins\" em destaque, e os preços na loja aparecem com a moeda.",
+    "Configurações maiores, aproveitando a tela cheia: até 3 colunas em telas grandes e letras maiores.",
+    "Botões do topo mais compactos em telas menores, pra não quebrar linha."
+  ],
+  "zip": "djmax-training-1.12.1.zip",
+  "sha256": "d8bba8f7e10831bed3a28ed4a76aa66aed8556b98197508c2415447d48851da8"
+}

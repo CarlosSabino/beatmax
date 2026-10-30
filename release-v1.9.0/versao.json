@@ -1,0 +1,13 @@
+{
+  "version": "1.9.0",
+  "notes": "Nova tela de calibração (Configurações › Sincronia › Tela de calibração): as notas caem na sua gear, na sua velocidade, com batida de metrônomo. A cada toque aparece quanto você bateu adiantado (FAST) ou atrasado (SLOW), a média ao vivo e uma barra com os últimos toques. Ajuste com ←/→ e veja a média ir pro zero na hora, ou aperte A pra zerar pela média automaticamente. Troque a velocidade com ↑/↓ e salve (Enter) em duas velocidades diferentes: daí o jogo acerta a sincronia sozinho em qualquer velocidade.",
+  "title": "Tela de calibração estilo DJMAX",
+  "items": [
+    "Nova tela de calibração (Configurações › Sincronia › Tela de calibração): as notas caem na sua gear, na sua velocidade, com batida de metrônomo.",
+    "A cada toque aparece quanto você bateu adiantado (FAST) ou atrasado (SLOW), a média ao vivo e uma barra com os últimos toques.",
+    "Ajuste com ←/→ e veja a média ir pro zero na hora, ou aperte A pra zerar pela média automaticamente.",
+    "Troque a velocidade com ↑/↓ e salve (Enter) em duas velocidades diferentes: daí o jogo acerta a sincronia sozinho em qualquer velocidade."
+  ],
+  "zip": "djmax-training-1.9.0.zip",
+  "sha256": "8f0b57e22b3f0376efca05dec32dfd0ddb7bfa1e83076ba72e71266a5dbf1a19"
+}

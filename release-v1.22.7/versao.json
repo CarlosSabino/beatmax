@@ -1,0 +1,27 @@
+{
+  "version": "1.22.7",
+  "notes": "CONFIGURAÇÕES NOVAS: tudo separado em abas no visual do jogo — JOGO, SINCRONIA, VISUAL, ÁUDIO, CONTROLES e SISTEMA. Q e E trocam de aba, e o jogo lembra a última aba aberta. Opção 'Efeito da gear cobre a gear inteira' agora também em Configurações › Visual, e no Personalizar ela aparece tanto em GEAR quanto em EFEITO DA GEAR. Corrigido: com uma música sua escolhida pro menu inicial, ela continuava tocando junto com a prévia na tela de seleção. O vídeo do menu inicial se recupera sozinho se travar, e não fica mais pausado por engano. Removida a opção 'Baixa latência de imagem' (experimental): o acerto é medido pelo horário da tecla, não pela imagem, então ela não ajudava no julgamento e podia deixar a imagem rasgando. Removida também uma opção antiga de tela cheia que estava escondida.",
+  "title": "Configurações em abas",
+  "items": [
+    "CONFIGURAÇÕES NOVAS: tudo separado em abas no visual do jogo — JOGO, SINCRONIA, VISUAL, ÁUDIO, CONTROLES e SISTEMA. Q e E trocam de aba, e o jogo lembra a última aba aberta.",
+    "Opção 'Efeito da gear cobre a gear inteira' agora também em Configurações › Visual, e no Personalizar ela aparece tanto em GEAR quanto em EFEITO DA GEAR.",
+    "Corrigido: com uma música sua escolhida pro menu inicial, ela continuava tocando junto com a prévia na tela de seleção.",
+    "O vídeo do menu inicial se recupera sozinho se travar, e não fica mais pausado por engano.",
+    "Removida a opção 'Baixa latência de imagem' (experimental): o acerto é medido pelo horário da tecla, não pela imagem, então ela não ajudava no julgamento e podia deixar a imagem rasgando. Removida também uma opção antiga de tela cheia que estava escondida."
+  ],
+  "zip": "djmax-training-1.22.7.zip",
+  "sha256": "affe1aec314d264e5e896584db41c267039842d21a6c5316c9c6ebe93c11e8d9",
+  "historico": [
+    {
+      "version": "1.22.6",
+      "title": "Revisão de desempenho",
+      "items": [
+        "TELA DE SELEÇÃO mais fluida: tirado um desfoque de fundo (invisível, a tela já é quase opaca) que obrigava a placa de vídeo a refazer a tela inteira a cada quadro.",
+        "ANDAR PELA LISTA de músicas sem travadas: os recordes de cada música eram recalculados lendo o histórico inteiro de partidas a cada movimento; agora ficam num índice pronto. Com muitas músicas e partidas, cada passo travava até ~0,2 s.",
+        "LOJA, PERSONALIZAR, NÍVEL e RANKING mais leves por cima do menu inicial: o vídeo da Arya pausa enquanto essas janelas estão abertas (a música continua) e saiu o desfoque de fundo delas.",
+        "As animações da Loja/Personalizar não ficam mais procurando miniaturas na página inteira a cada quadro quando essas janelas estão fechadas.",
+        "Durante a partida o menu escondido não é mais atualizado a cada segundo, e o marcador de SPEED do canto não usa mais desfoque por cima da pista."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.22.8",
+  "notes": "NUVEM › MINHAS: agora dá pra BAIXAR as suas próprias músicas em qualquer aparelho (ótimo pra jogar no navegador/Xbox o que você publicou no PC). Marque várias músicas de uma vez em MINHAS pra baixar, enviar pra um amigo (@apelido) ou apagar da nuvem — sem fazer uma por uma. Cada música mostra se já está na sua biblioteca (✔), se tem versão nova (⟳) ou se ainda não está neste aparelho (⬇). Filtros: Todas / Não estão aqui / Na biblioteca. RECEBIDAS e EXPLORAR: botão 'Baixar todas as que faltam' e opção de esconder as que você já tem. LINK DE MÚSICA: 'Copiar links' gera um link que abre o site do jogo direto na música (é só a pessoa entrar na conta e baixar). O código BMX-XXXXXX continua funcionando em Explorar. Apagar da nuvem agora pede confirmação dentro do jogo (sem sair da tela cheia).",
+  "title": "Nuvem mais fácil",
+  "items": [
+    "NUVEM › MINHAS: agora dá pra BAIXAR as suas próprias músicas em qualquer aparelho (ótimo pra jogar no navegador/Xbox o que você publicou no PC).",
+    "Marque várias músicas de uma vez em MINHAS pra baixar, enviar pra um amigo (@apelido) ou apagar da nuvem — sem fazer uma por uma.",
+    "Cada música mostra se já está na sua biblioteca (✔), se tem versão nova (⟳) ou se ainda não está neste aparelho (⬇). Filtros: Todas / Não estão aqui / Na biblioteca.",
+    "RECEBIDAS e EXPLORAR: botão 'Baixar todas as que faltam' e opção de esconder as que você já tem.",
+    "LINK DE MÚSICA: 'Copiar links' gera um link que abre o site do jogo direto na música (é só a pessoa entrar na conta e baixar). O código BMX-XXXXXX continua funcionando em Explorar.",
+    "Apagar da nuvem agora pede confirmação dentro do jogo (sem sair da tela cheia)."
+  ],
+  "zip": "djmax-training-1.22.8.zip",
+  "sha256": "502b67b2661e7ba016ab5af98dcae64d704542da19d51eda85e4e28a45661ca8"
+}

@@ -1,0 +1,35 @@
+{
+  "version": "1.25.2",
+  "notes": "NOVA ABERTURA: a pista neon, o clarão e a turma toda reunida no palco — Echo, Iris, Arya e Jade. No fim da abertura as quatro ficam no palco com o logo do BEATMAX Training e as luzes se mexendo, esperando você apertar uma tecla pra começar. Apertar durante o vídeo pula direto pro palco. CORRIGIDO: a velocidade às vezes caía de repente no meio da partida (ex.: 6.2 → 5.3). Era a barra de SPEED do Equipamento que continuava selecionada e reagia a teclas como PageDown — ou o 3 do teclado numérico com o NumLock desligado. Agora, ao começar a música, nenhum campo das opções fica selecionado e as teclas da partida não mexem mais em nenhuma opção. As teclas 1 e 2 continuam mudando a velocidade normalmente.",
+  "title": "Abertura nova + velocidade não muda mais sozinha",
+  "items": [
+    "NOVA ABERTURA: a pista neon, o clarão e a turma toda reunida no palco — Echo, Iris, Arya e Jade.",
+    "No fim da abertura as quatro ficam no palco com o logo do BEATMAX Training e as luzes se mexendo, esperando você apertar uma tecla pra começar. Apertar durante o vídeo pula direto pro palco.",
+    "CORRIGIDO: a velocidade às vezes caía de repente no meio da partida (ex.: 6.2 → 5.3). Era a barra de SPEED do Equipamento que continuava selecionada e reagia a teclas como PageDown — ou o 3 do teclado numérico com o NumLock desligado.",
+    "Agora, ao começar a música, nenhum campo das opções fica selecionado e as teclas da partida não mexem mais em nenhuma opção. As teclas 1 e 2 continuam mudando a velocidade normalmente."
+  ],
+  "zip": "djmax-training-1.25.2.zip",
+  "sha256": "a4c5d26ef51eb41e5250f487393cfb8909aa68e2bf189c25277f9ca35af0892c",
+  "historico": [
+    {
+      "version": "1.25.1",
+      "title": "Level up em 8-bit",
+      "items": [
+        "Nova tela de LEVEL UP: a Arya 8-bit comemora num vídeo dentro do cartão, com pixels coloridos caindo em volta.",
+        "Inclui tudo da 1.25.0: Torcida 8-bit animada quadro a quadro e personagens 8-bit sem o contorno branco."
+      ]
+    },
+    {
+      "version": "1.25.0",
+      "title": "Torcida 8-bit ganhou vida",
+      "items": [
+        "TORCIDA 8-BIT TODA ANIMADA: agora as personagens se mexem quadro a quadro, com movimentos de verdade.",
+        "Cada uma tem o seu GOLPE ESPECIAL a cada 50 de combo: Arya comemora de braços pra cima, Jade solta um jato de spray na direção da gear, Iris acena sem parar e Echo larga o tablet e pula. A cada 100: cambalhota!",
+        "Com 100+ de combo elas entram no EMBALO: Arya sai correndo de um lado pro outro, Jade dança, Iris acena e Echo digita a mil.",
+        "Quando a partida está calma, fazem poses à toa (a Jade até coloca o fone de gatinho). No BREAK cada uma leva o seu susto.",
+        "Personagens 8-bit em alta qualidade e sem o contorno branco em volta.",
+        "Na Loja, a vitrine da Torcida 8-bit mostra o show completo de cada uma."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": "1.27.2",
+  "notes": "CORRIGIDO: ao trocar de gear, o fundo e os efeitos da gear anterior (como as caveiras e fantasmas do Beatjuicy) continuavam na tela. Agora \"Igual à gear\" volta a valer sempre que você troca de gear; a combinação de efeitos só fica ativa quando você monta uma de propósito em Personalizar. EFEITOS DO FEVER LIBERADOS: saíram da Loja e estão todos disponíveis em Personalizar › FEVER, de graça. MAIS LEVE: maldições do Halloween, fantasminhas da torcida do Beatjuicy e as partículas da gear dele agora usam desenhos prontos em vez de calcular brilho e emoji a cada quadro.",
+  "title": "Troca de gear corrigida e efeitos do FEVER liberados",
+  "items": [
+    "CORRIGIDO: ao trocar de gear, o fundo e os efeitos da gear anterior (como as caveiras e fantasmas do Beatjuicy) continuavam na tela. Agora \"Igual à gear\" volta a valer sempre que você troca de gear; a combinação de efeitos só fica ativa quando você monta uma de propósito em Personalizar.",
+    "EFEITOS DO FEVER LIBERADOS: saíram da Loja e estão todos disponíveis em Personalizar › FEVER, de graça.",
+    "MAIS LEVE: maldições do Halloween, fantasminhas da torcida do Beatjuicy e as partículas da gear dele agora usam desenhos prontos em vez de calcular brilho e emoji a cada quadro."
+  ],
+  "zip": "djmax-training-1.27.2.zip",
+  "sha256": "a957c14227f4a45a9375fda924e50a77062bccf63a87453361e700cce1a19295",
+  "historico": [
+    {
+      "version": "1.27.1",
+      "title": "FEVER mais sutil e jogo mais leve",
+      "items": [
+        "FEVER NO JEITO DJMAX: o multiplicador (x2…x5) aparece no meio da pista só quando sobe de nível, com um som, e some em ~1 segundo. O efeito escolhido (Raio, Chama, Aurora…) acompanha só esse momento. Depois fica apenas um brilho leve embaixo da pista e a barrinha do lado.",
+        "Configurações › Temas: \"Visual do FEVER\" (Sutil ou Forte, como era antes), \"Multiplicador na pista\" e \"Som ao subir o FEVER\".",
+        "MAIS LEVE: as Gears da Turma (Beatjuicy, Arya, Iris, Echo, Jade) desenhavam a personagem, o fundo e as linhas de tela de novo a cada quadro. Agora isso fica pronto numa imagem só, e as caveiras, assombrações e partículas não usam mais brilho calculado na hora. Bem menos travamento."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.12.0",
+  "notes": "DESAFIO DO DIA: todo dia um treino sorteado, com dificuldade e meta de precisão. O convite aparece ao abrir o jogo (uma vez por dia, até você concluir) e dá pra abrir de novo pelo ícone de moeda no topo. Pra ganhar as 10 Beatcoins: música inteira, sem zerar o HP, velocidade 100% e nota mínima — S (97%) no NORMAL e HARD, A (93%) no EXPERT e A (90%) no MASTER. Bônus pela nota: S +5 e P (100%) +10. Vale uma vez por dia, e o jogo conta a sua sequência de dias seguidos 🔥. LOJA BEATMAX: 6 gears exclusivas pra comprar com as Beatcoins (Aurora Boreal, Magma, Oceano Profundo, Sakura Noturna, Ouro Real e Vazio Cósmico). Tudo grátis — é só jogar. Cada gear exclusiva tem efeito animado próprio nas laterais: Magma com paredes de lava borbulhando e brasas, Sakura com pétalas de cerejeira caindo, Aurora com cortinas de aurora, Oceano com bolhas e raios de luz, Ouro com brilhos e pó dourado, e Vazio Cósmico com estrelas em órbita e cometas. Os acertos soltam mais partículas e tudo pulsa na batida — nunca cobre as notas. As gears compradas aparecem no seletor de Gear Skin em \"Exclusivas (loja)\". Moedas e compras são de cada perfil e entram no backup. Configurações › Gear e fundo: liga/desliga os efeitos das gears exclusivas e escolhe a quantidade de partículas.",
+  "title": "Desafio do Dia, Beatcoins e Loja",
+  "items": [
+    "DESAFIO DO DIA: todo dia um treino sorteado, com dificuldade e meta de precisão. O convite aparece ao abrir o jogo (uma vez por dia, até você concluir) e dá pra abrir de novo pelo ícone de moeda no topo.",
+    "Pra ganhar as 10 Beatcoins: música inteira, sem zerar o HP, velocidade 100% e nota mínima — S (97%) no NORMAL e HARD, A (93%) no EXPERT e A (90%) no MASTER. Bônus pela nota: S +5 e P (100%) +10. Vale uma vez por dia, e o jogo conta a sua sequência de dias seguidos 🔥.",
+    "LOJA BEATMAX: 6 gears exclusivas pra comprar com as Beatcoins (Aurora Boreal, Magma, Oceano Profundo, Sakura Noturna, Ouro Real e Vazio Cósmico). Tudo grátis — é só jogar.",
+    "Cada gear exclusiva tem efeito animado próprio nas laterais: Magma com paredes de lava borbulhando e brasas, Sakura com pétalas de cerejeira caindo, Aurora com cortinas de aurora, Oceano com bolhas e raios de luz, Ouro com brilhos e pó dourado, e Vazio Cósmico com estrelas em órbita e cometas. Os acertos soltam mais partículas e tudo pulsa na batida — nunca cobre as notas.",
+    "As gears compradas aparecem no seletor de Gear Skin em \"Exclusivas (loja)\". Moedas e compras são de cada perfil e entram no backup.",
+    "Configurações › Gear e fundo: liga/desliga os efeitos das gears exclusivas e escolhe a quantidade de partículas."
+  ],
+  "zip": "djmax-training-1.12.0.zip",
+  "sha256": "43f3b614557dd30874d6aebd69537dd101f3177597e00b425291b7f2ed848a9e"
+}

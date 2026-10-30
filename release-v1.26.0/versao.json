@@ -1,0 +1,51 @@
+{
+  "version": "1.26.0",
+  "notes": "FEVER AUTOMÁTICO: cada acerto enche a barrinha do FEVER (lateral direita da gear). Cheia: FEVER x2, e enchendo de novo x3, x4 e x5. BREAK encerra. Um anel com o x2…x5 aparece no meio da pista, atrás das notas (com raio no x5). O FEVER só aumenta o SCORE: precisão, recordes, EXP e ranking não mudam. GEARS DA TURMA (Loja): Arya, Iris, Echo e Jade nas laterais da gear com \"falha digital\" que pisca na batida, linhas de tela, o nome vazado e teclas em losango que acendem na cor da nota. NOVA NOTA: ORBE NEON (Loja) — orbes de luz com núcleo branco e aro neon, com anel e clarão ao acertar. PALAVRAS DO JULGAMENTO: escolha entre Padrão (MAX 100%), KOOL (KOOL · COOL · GOOD · BAD · MISS) ou Clássico (PERFECT · GREAT · GOOD · BAD · MISS), com o % pequeno embaixo. É só o texto: o julgamento não muda. FIM DA MÚSICA ANIMADO: PERFECT PLAY, MAX COMBO e CLEAR com animação por cima da gear (cada pacote de palavras tem o seu estilo). ANIMAÇÕES NA PISTA: pulso na batida com equalizador, onda de luz a cada 50 de combo e laterais em brasa com 100+. MENU INICIAL ANIMADO: cada opção tem a sua cor e personagem, a palavra gigante desliza ao fundo e a troca tem transição com falha e clarão. NOVA ABA \"TEMAS\" nas Configurações: tudo isso pode ser ligado ou desligado. Dá pra voltar tudo como antes (FEVER desligado, palavras padrão, fim simples, menu com o vídeo lo-fi). ESCOLHA DA ABERTURA (Configurações › Sistema): nova com a música clássica (padrão), nova com a música nova, ou a abertura clássica da Arya. CORRIGIDO: a música do menu continuava tocando dentro do Editor.",
+  "title": "FEVER, Gears da Turma e menu animado",
+  "items": [
+    "FEVER AUTOMÁTICO: cada acerto enche a barrinha do FEVER (lateral direita da gear). Cheia: FEVER x2, e enchendo de novo x3, x4 e x5. BREAK encerra. Um anel com o x2…x5 aparece no meio da pista, atrás das notas (com raio no x5). O FEVER só aumenta o SCORE: precisão, recordes, EXP e ranking não mudam.",
+    "GEARS DA TURMA (Loja): Arya, Iris, Echo e Jade nas laterais da gear com \"falha digital\" que pisca na batida, linhas de tela, o nome vazado e teclas em losango que acendem na cor da nota.",
+    "NOVA NOTA: ORBE NEON (Loja) — orbes de luz com núcleo branco e aro neon, com anel e clarão ao acertar.",
+    "PALAVRAS DO JULGAMENTO: escolha entre Padrão (MAX 100%), KOOL (KOOL · COOL · GOOD · BAD · MISS) ou Clássico (PERFECT · GREAT · GOOD · BAD · MISS), com o % pequeno embaixo. É só o texto: o julgamento não muda.",
+    "FIM DA MÚSICA ANIMADO: PERFECT PLAY, MAX COMBO e CLEAR com animação por cima da gear (cada pacote de palavras tem o seu estilo).",
+    "ANIMAÇÕES NA PISTA: pulso na batida com equalizador, onda de luz a cada 50 de combo e laterais em brasa com 100+.",
+    "MENU INICIAL ANIMADO: cada opção tem a sua cor e personagem, a palavra gigante desliza ao fundo e a troca tem transição com falha e clarão.",
+    "NOVA ABA \"TEMAS\" nas Configurações: tudo isso pode ser ligado ou desligado. Dá pra voltar tudo como antes (FEVER desligado, palavras padrão, fim simples, menu com o vídeo lo-fi).",
+    "ESCOLHA DA ABERTURA (Configurações › Sistema): nova com a música clássica (padrão), nova com a música nova, ou a abertura clássica da Arya.",
+    "CORRIGIDO: a música do menu continuava tocando dentro do Editor."
+  ],
+  "zip": "djmax-training-1.26.0.zip",
+  "sha256": "9e8e8c5ff6d533488ca3d16beca94654d01730b0416eaca37cef16368af97847",
+  "historico": [
+    {
+      "version": "1.25.2",
+      "title": "Abertura nova + velocidade não muda mais sozinha",
+      "items": [
+        "NOVA ABERTURA: a pista neon, o clarão e a turma toda reunida no palco — Echo, Iris, Arya e Jade.",
+        "No fim da abertura as quatro ficam no palco com o logo do BEATMAX Training e as luzes se mexendo, esperando você apertar uma tecla pra começar. Apertar durante o vídeo pula direto pro palco.",
+        "CORRIGIDO: a velocidade às vezes caía de repente no meio da partida (ex.: 6.2 → 5.3). Era a barra de SPEED do Equipamento que continuava selecionada e reagia a teclas como PageDown — ou o 3 do teclado numérico com o NumLock desligado.",
+        "Agora, ao começar a música, nenhum campo das opções fica selecionado e as teclas da partida não mexem mais em nenhuma opção. As teclas 1 e 2 continuam mudando a velocidade normalmente."
+      ]
+    },
+    {
+      "version": "1.25.1",
+      "title": "Level up em 8-bit",
+      "items": [
+        "Nova tela de LEVEL UP: a Arya 8-bit comemora num vídeo dentro do cartão, com pixels coloridos caindo em volta.",
+        "Inclui tudo da 1.25.0: Torcida 8-bit animada quadro a quadro e personagens 8-bit sem o contorno branco."
+      ]
+    },
+    {
+      "version": "1.25.0",
+      "title": "Torcida 8-bit ganhou vida",
+      "items": [
+        "TORCIDA 8-BIT TODA ANIMADA: agora as personagens se mexem quadro a quadro, com movimentos de verdade.",
+        "Cada uma tem o seu GOLPE ESPECIAL a cada 50 de combo: Arya comemora de braços pra cima, Jade solta um jato de spray na direção da gear, Iris acena sem parar e Echo larga o tablet e pula. A cada 100: cambalhota!",
+        "Com 100+ de combo elas entram no EMBALO: Arya sai correndo de um lado pro outro, Jade dança, Iris acena e Echo digita a mil.",
+        "Quando a partida está calma, fazem poses à toa (a Jade até coloca o fone de gatinho). No BREAK cada uma leva o seu susto.",
+        "Personagens 8-bit em alta qualidade e sem o contorno branco em volta.",
+        "Na Loja, a vitrine da Torcida 8-bit mostra o show completo de cada uma."
+      ]
+    }
+  ]
+}

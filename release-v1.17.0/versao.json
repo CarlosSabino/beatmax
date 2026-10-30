@@ -1,0 +1,15 @@
+{
+  "version": "1.17.0",
+  "notes": "GEAR NA PROPORÇÃO ARCADE (nova padrão): a linha de julgamento subiu pra ~70% da altura da tela — mais perto do meio, onde o olho fica —, a pista ficou mais larga e as notas maiores, e o painel de baixo cresceu. Numa tela Full HD: pista de 500 px e linha de julgamento a 753 px do topo, as mesmas medidas dos jogos de teclas de arcade. A velocidade continua sendo \"tempo da nota na tela\": SPEED 6.5 mostra a nota pelo mesmo tempo de antes. Quer a pista alta antiga? Configurações › Gear e fundo › Proporção da gear › Clássica. HUD na proporção arcade: \"COMBO\", o número do combo e o \"MAX 100%\" ficam nas mesmas posições e tamanhos dos jogos de teclas de arcade — o combo grande lá em cima e o julgamento logo acima da linha. O Personalizar e o Calibrador usam a mesma proporção da partida. PRÉVIA DO CHART fiel à partida: segue a sua velocidade (a distância entre as notas muda junto), e mostra RANDOM/MIRROR, LANE COVER (SUDDEN/HIDDEN/FOG), VELOCIDADE (CHAOS) e FADER. 8B em 8 COLUNAS: os treinos agora usam as 8 colunas (antes ficavam só nas 6 do meio). No controle, as colunas das pontas ficam no L2/R2.",
+  "title": "Gear na proporção arcade e prévia fiel",
+  "items": [
+    "GEAR NA PROPORÇÃO ARCADE (nova padrão): a linha de julgamento subiu pra ~70% da altura da tela — mais perto do meio, onde o olho fica —, a pista ficou mais larga e as notas maiores, e o painel de baixo cresceu. Numa tela Full HD: pista de 500 px e linha de julgamento a 753 px do topo, as mesmas medidas dos jogos de teclas de arcade.",
+    "A velocidade continua sendo \"tempo da nota na tela\": SPEED 6.5 mostra a nota pelo mesmo tempo de antes. Quer a pista alta antiga? Configurações › Gear e fundo › Proporção da gear › Clássica.",
+    "HUD na proporção arcade: \"COMBO\", o número do combo e o \"MAX 100%\" ficam nas mesmas posições e tamanhos dos jogos de teclas de arcade — o combo grande lá em cima e o julgamento logo acima da linha.",
+    "O Personalizar e o Calibrador usam a mesma proporção da partida.",
+    "PRÉVIA DO CHART fiel à partida: segue a sua velocidade (a distância entre as notas muda junto), e mostra RANDOM/MIRROR, LANE COVER (SUDDEN/HIDDEN/FOG), VELOCIDADE (CHAOS) e FADER.",
+    "8B em 8 COLUNAS: os treinos agora usam as 8 colunas (antes ficavam só nas 6 do meio). No controle, as colunas das pontas ficam no L2/R2."
+  ],
+  "zip": "djmax-training-1.17.0.zip",
+  "sha256": "1a60484d9cab9833f2e88c367084e8b6c0c2c17b33f4be0bd899ad113ff7429e"
+}
