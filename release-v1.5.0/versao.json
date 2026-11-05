@@ -1,0 +1,6 @@
+{
+  "version": "1.5.0",
+  "notes": "Tela cheia de verdade (menu e partida ocupam a tela toda); modificadores DJMAX (Half Random, Mirror+Half, Slide Up/Down, Chaos W, Special Chaos, Fade In/Out, Blink, Fog); prévia da música ao selecionar.",
+  "zip": "djmax-training-1.5.0.zip",
+  "sha256": "abbbc04e25a529d9843b895cdd467f3adddfadf34ef1f145eeafd9ccd07e6187"
+}

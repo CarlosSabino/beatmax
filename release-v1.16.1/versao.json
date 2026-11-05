@@ -1,0 +1,10 @@
+{
+  "version": "1.16.1",
+  "notes": "A Arya, personagem do BEATMAX, agora apresenta as novidades: ela aparece do lado esquerdo desta tela, apontando pro que mudou. Em telas pequenas ela se esconde pra não apertar o texto.",
+  "title": "Conheça a Arya",
+  "items": [
+    "A Arya, personagem do BEATMAX, agora apresenta as novidades: ela aparece do lado esquerdo desta tela, apontando pro que mudou. Em telas pequenas ela se esconde pra não apertar o texto."
+  ],
+  "zip": "djmax-training-1.16.1.zip",
+  "sha256": "d9202615e0b96facd1abf1339c5c40ca1c58b66d4635465fcbd80233fbb92bbc"
+}

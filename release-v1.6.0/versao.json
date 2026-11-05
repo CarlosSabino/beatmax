@@ -1,0 +1,6 @@
+{
+  "version": "1.6.0",
+  "notes": "Perfis de jogador (configurações, calibração e recordes separados); compensação automática da calibração por velocidade.",
+  "zip": "djmax-training-1.6.0.zip",
+  "sha256": "9d32964bc533c17edaaa3eb5a108971706c75c332a077598a1a0e12d25ac277a"
+}

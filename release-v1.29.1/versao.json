@@ -1,0 +1,73 @@
+{
+  "version": "1.29.1",
+  "notes": "LOJA MAIS LEVE: o menu inicial continuava animando por baixo das janelas (Loja, Personalizar, Ranking…). Agora ele pausa enquanto alguma janela está aberta. As miniaturas da Loja só animam quando aparecem na tela (e a 30 quadros por segundo). As de FIM DE MÚSICA ficam paradas e animam quando você passa o mouse em cima.",
+  "title": "Loja bem mais leve",
+  "items": [
+    "LOJA MAIS LEVE: o menu inicial continuava animando por baixo das janelas (Loja, Personalizar, Ranking…). Agora ele pausa enquanto alguma janela está aberta.",
+    "As miniaturas da Loja só animam quando aparecem na tela (e a 30 quadros por segundo). As de FIM DE MÚSICA ficam paradas e animam quando você passa o mouse em cima."
+  ],
+  "zip": "djmax-training-1.29.1.zip",
+  "sha256": "4cf74f23b00b15cedf4ba7885b83c773a05c7c55a3160d3893c0099ea59d5758",
+  "historico": [
+    {
+      "version": "1.29.0",
+      "title": "Fim de música com a cara do BEATMAX",
+      "items": [
+        "NOVO na Loja: estilos de FIM DE MÚSICA para o MAX COMBO e o PERFECT PLAY, cada um com o seu som: Cut-in da Turma (180), Jackpot de Beatcoins (150), Fanfarra 8-bit (120) e Disco de Ouro (200).",
+        "🎁 PRESENTE: o estilo Neon BEATMAX é de graça! Pegue na Loja, seção FIM DE MÚSICA.",
+        "Personalizar › FIM DE MÚSICA: escolha o estilo vendo a prévia animada. No Cut-in dá pra escolher quem aparece (automático pela gear/torcida, aleatório ou uma personagem fixa).",
+        "O estilo do raio com estrela e coroa continua como o padrão (Arcade)."
+      ]
+    },
+    {
+      "version": "1.28.2",
+      "title": "Ajustes",
+      "items": [
+        "Janela de Novidades: a Arya não fica mais cortada no alto da tela e a janela volta a ficar centralizada.",
+        "Pequenos ajustes nas opções de música do menu."
+      ]
+    },
+    {
+      "version": "1.28.1",
+      "title": "MAX COMBO e PERFECT PLAY novos",
+      "items": [
+        "MAX COMBO e PERFECT PLAY com animação nova: um raio cai na pista, o letreiro gigante despenca com explosões saindo dos lados da gear e, em seguida, vira um selo com estrela e coroa. Tudo com som (estalo, pancada e o \"plim\" do selo).",
+        "A tela de resultados espera a animação terminar (cerca de 4 segundos) só quando você faz MAX COMBO ou PERFECT PLAY.",
+        "Configurações › Temas › \"Animação no fim da música\" continua com a opção Simples (como antes)."
+      ]
+    },
+    {
+      "version": "1.28.0",
+      "title": "Preparativos para dezembro 🎄",
+      "items": [
+        "Tem coisa sendo embrulhada por aqui… Volte no dia 1º de dezembro. 🎁",
+        "Ajustes internos e correções."
+      ]
+    },
+    {
+      "version": "1.27.3",
+      "title": "Ajustes internos",
+      "items": [
+        "Pequenos ajustes internos e correções."
+      ]
+    },
+    {
+      "version": "1.27.2",
+      "title": "Troca de gear corrigida e efeitos do FEVER liberados",
+      "items": [
+        "CORRIGIDO: ao trocar de gear, o fundo e os efeitos da gear anterior (como as caveiras e fantasmas do Beatjuicy) continuavam na tela. Agora \"Igual à gear\" volta a valer sempre que você troca de gear; a combinação de efeitos só fica ativa quando você monta uma de propósito em Personalizar.",
+        "EFEITOS DO FEVER LIBERADOS: saíram da Loja e estão todos disponíveis em Personalizar › FEVER, de graça.",
+        "MAIS LEVE: maldições do Halloween, fantasminhas da torcida do Beatjuicy e as partículas da gear dele agora usam desenhos prontos em vez de calcular brilho e emoji a cada quadro."
+      ]
+    },
+    {
+      "version": "1.27.1",
+      "title": "FEVER mais sutil e jogo mais leve",
+      "items": [
+        "FEVER NO JEITO DJMAX: o multiplicador (x2…x5) aparece no meio da pista só quando sobe de nível, com um som, e some em ~1 segundo. O efeito escolhido (Raio, Chama, Aurora…) acompanha só esse momento. Depois fica apenas um brilho leve embaixo da pista e a barrinha do lado.",
+        "Configurações › Temas: \"Visual do FEVER\" (Sutil ou Forte, como era antes), \"Multiplicador na pista\" e \"Som ao subir o FEVER\".",
+        "MAIS LEVE: as Gears da Turma (Beatjuicy, Arya, Iris, Echo, Jade) desenhavam a personagem, o fundo e as linhas de tela de novo a cada quadro. Agora isso fica pronto numa imagem só, e as caveiras, assombrações e partículas não usam mais brilho calculado na hora. Bem menos travamento."
+      ]
+    }
+  ]
+}

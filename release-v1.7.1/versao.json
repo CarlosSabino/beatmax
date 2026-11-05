@@ -1,0 +1,6 @@
+{
+  "version": "1.7.1",
+  "notes": "Jogo abre direto em tela cheia; editor não pergunta mais de rascunho já salvo; apagar rápido no editor (botão direito arrastando, retângulo, Shift+Delete no compasso).",
+  "zip": "djmax-training-1.7.1.zip",
+  "sha256": "c1fdb70920246de4953d74ad88cd36410192b8f039b9e2a9b05a222198e80c4f"
+}

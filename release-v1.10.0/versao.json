@@ -1,0 +1,14 @@
+{
+  "version": "1.10.0",
+  "notes": "As dificuldades da mesma música (mesmo modo de botões) agora ficam num card só, com as dificuldades lado a lado: EASY, NORMAL, HARD, EXPERT e MASTER, com nível de 1 a 15. Com a música selecionada, ← / → troca a dificuldade (ou clique direto nela). A escolhida fica destacada e o jogo lembra a última de cada música. Músicas do osu! mostram o nome original da dificuldade e o nível estimado pelas estrelas (marcado com ≈). Chart Editor: novo campo DIFICULDADE (categoria + nível). Em Auto, o nível é estimado pela quantidade de notas. Charts com o mesmo nome e modo aparecem juntos como dificuldades da mesma música. Ícone discreto de filme nas músicas que têm vídeo de fundo.",
+  "title": "Dificuldades das músicas",
+  "items": [
+    "As dificuldades da mesma música (mesmo modo de botões) agora ficam num card só, com as dificuldades lado a lado: EASY, NORMAL, HARD, EXPERT e MASTER, com nível de 1 a 15.",
+    "Com a música selecionada, ← / → troca a dificuldade (ou clique direto nela). A escolhida fica destacada e o jogo lembra a última de cada música.",
+    "Músicas do osu! mostram o nome original da dificuldade e o nível estimado pelas estrelas (marcado com ≈).",
+    "Chart Editor: novo campo DIFICULDADE (categoria + nível). Em Auto, o nível é estimado pela quantidade de notas. Charts com o mesmo nome e modo aparecem juntos como dificuldades da mesma música.",
+    "Ícone discreto de filme nas músicas que têm vídeo de fundo."
+  ],
+  "zip": "djmax-training-1.10.0.zip",
+  "sha256": "053b387fcb5094b0d2d6b8d7720817afb6069924ddd6760df370c01a20fb0376"
+}

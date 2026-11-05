@@ -1,0 +1,163 @@
+{
+  "version": "1.32.1",
+  "notes": "Nova personagem: GARNET, a dona da tela de Missões. Ela recebe você no menu de Missões e aparece em 8-bit no capítulo (aponta a missão que você escolher), na confirmação e no painel da partida. No fim da missão ela entrega a carta e bate continência quando você conclui… e se assusta quando a missão falha. O botão MISSÕES do menu inicial agora tem a arte da Garnet.",
+  "title": "Chegou a Garnet!",
+  "items": [
+    "Nova personagem: GARNET, a dona da tela de Missões. Ela recebe você no menu de Missões e aparece em 8-bit no capítulo (aponta a missão que você escolher), na confirmação e no painel da partida.",
+    "No fim da missão ela entrega a carta e bate continência quando você conclui… e se assusta quando a missão falha.",
+    "O botão MISSÕES do menu inicial agora tem a arte da Garnet."
+  ],
+  "zip": "djmax-training-1.32.1.zip",
+  "sha256": "b95bcb54eeb9972cb76613fa78a7dca62d2070310de6afce6ed816c555455da9",
+  "historico": [
+    {
+      "version": "1.32.0",
+      "title": "🗺️ NOVO: modo MISSÕES",
+      "items": [
+        "Novo botão MISSÕES no menu inicial (atalho 5). Monte packs (capítulos) com 3 a 6 músicas da sua biblioteca e dê objetivos pra cada uma: não errar mais de X notas, combo de X, precisão acima de X%, MAX COMBO, sobreviver, notas longas e mais.",
+        "Cada capítulo pode ter um 💀 CHEFÃO e um ✦ ENCORE no final, com um desafio extra escondido até a música começar. O desbloqueio pode ser em sequência ou \"começa com N liberadas\", e um pack pode ser a continuação de outro (Capítulo 2 só abre depois do 1).",
+        "Na partida, um painel ao lado da gear mostra cada objetivo ao vivo. Se não der mais pra cumprir, a missão falha na hora. Na missão não vale o modo sem falha nem mudar a velocidade da música; o random é só Normal ou Mirror.",
+        "Pra valer, o criador precisa passar em cada missão (confirmação). EXP de recompensa só na 1ª vez de cada missão e só em pack de outra pessoa (outros perfis do PC ou pack importado). Dá pra exportar e importar packs em arquivo.",
+        "Música do menu de Missões: \"Military\" — kulakovka (Pixabay)."
+      ]
+    },
+    {
+      "version": "1.31.3",
+      "title": "Ajustes no Personalizar e no menu",
+      "items": [
+        "Personalizar: depois do \"Testar na pista\" você volta pro menu inicial com a música tocando (antes ela ficava muda até reabrir a tela).",
+        "Personalizar: os textos das caixas não saem mais pra fora (nome grande, \"SEU\", \"EM USO\").",
+        "Menu inicial: as personagens de cada opção não cortam mais a cabeça no topo da tela.",
+        "Notas longas com listras agora mostram as listras certinhas em qualquer velocidade."
+      ]
+    },
+    {
+      "version": "1.31.2",
+      "title": "Música na Loja e correções",
+      "items": [
+        "A Loja agora tem música própria. Ao fechar, a música do menu volta do ponto onde parou. Dá pra desligar em Configurações › Áudio › \"Música própria em cada seção\".",
+        "Itens PREMIUM: agora aparecem só os botões do modo que você está jogando (4B = 4, 5B = 5, 6B = 6, 8B = 8). Antes as teclas SIDE entravam na conta.",
+        "Gatinho no Teclado: as listras ficaram centralizadas no corpo.",
+        "A chuva de moedas às vezes ficava escondida atrás de um mini-game e não aparecia. Corrigido."
+      ]
+    },
+    {
+      "version": "1.31.1",
+      "title": "Gatinho no Teclado mais simples",
+      "items": [
+        "O Gatinho no Teclado ficou do jeito do protótipo: um gatão deitado em cima de um teclado simples, com uma tecla grande por lane. Em 4B são 4 teclas; com mais botões, o teclado ganha mais teclas.",
+        "As patinhas continuam batendo nas teclas certas, ele se espreguiça no BREAK e solta o miau! no combo."
+      ]
+    },
+    {
+      "version": "1.31.0",
+      "title": "⭐ 6 novos itens PREMIUM",
+      "items": [
+        "Chegaram 6 novos itens ⭐ PREMIUM na Loja, todos abaixo da linha de julgamento: Mesa de DJ (650), Fliperama (500), Launchpad Neon (550), Gatinho no Teclado (450), Sintetizador da Echo (600) e Show da Turma (800).",
+        "Mesa de DJ: discos girando no ritmo, scratch nas notas longas, crossfader e medidores. Fliperama: alavanca e um botão por lane, com 1UP! e moedinhas no FEVER. Launchpad Neon: pads de luz que se espalham a cada acerto e o BEATMAX rolando no combo alto.",
+        "Gatinho no Teclado: ele bate as patinhas nas suas teclas, se espreguiça no BREAK e solta um miau! no combo. Sintetizador da Echo: piano com osciloscópio. Show da Turma: Iris, Jade, Arya e Echo tocando no palquinho 8-bit, cada uma nas lanes dela.",
+        "Todos foram feitos no mesmo esquema leve do Teclado Gamer, pra não pesar o jogo. Dá pra testar na pista antes de comprar em Personalizar › ABAIXO DA LINHA."
+      ]
+    },
+    {
+      "version": "1.30.1",
+      "title": "Teclado Gamer mais leve",
+      "items": [
+        "O Teclado Gamer ficou bem mais leve: o brilho, as letras, a telinha e o placar agora ficam prontos e só são carimbados na tela, sem redesenhar tudo a cada quadro.",
+        "Quando não tem nota acontecendo, só a luz ambiente anda (a 30 quadros), e o jogo fica com mais folga para manter os 60 fps."
+      ]
+    },
+    {
+      "version": "1.30.0",
+      "title": "⭐ PREMIUM: Teclado Gamer",
+      "items": [
+        "NOVO tipo de item na Loja: ⭐ PREMIUM, uma animação ABAIXO DA LINHA de julgamento. O primeiro é o TECLADO GAMER (600 Beatcoins).",
+        "As teclas que você usa pra jogar afundam e acendem na cor da nota, cada acerto espalha luz pelas outras teclas, a cada 25 de combo uma tecla salta, o FEVER deixa tudo dourado e o BREAK fica vermelho e treme. Tem telinha com o combo e o placar continua numa faixa fina no pé.",
+        "Personalizar › ABAIXO DA LINHA: escolha a luz (Reativa, Onda ou Respiração), o tema (RGB, Iris, Jade ou Echo) e ligue o som de tecla mecânica se quiser. Dá pra testar na pista antes de comprar."
+      ]
+    },
+    {
+      "version": "1.29.3",
+      "title": "Correção",
+      "items": [
+        "A música do menu inicial agora para quando um mini-game com música própria começa, e volta quando você sai dele."
+      ]
+    },
+    {
+      "version": "1.29.2",
+      "title": "Correções",
+      "items": [
+        "Loja: ao comprar ou usar um item, a janela continua no mesmo ponto da rolagem (antes voltava pro topo).",
+        "ESC na tela inicial: a tela de fechar o jogo volta a mostrar o menu inicial no fundo (aparecia a seleção de músicas)."
+      ]
+    },
+    {
+      "version": "1.29.1",
+      "title": "Loja bem mais leve",
+      "items": [
+        "LOJA MAIS LEVE: o menu inicial continuava animando por baixo das janelas (Loja, Personalizar, Ranking…). Agora ele pausa enquanto alguma janela está aberta.",
+        "As miniaturas da Loja só animam quando aparecem na tela (e a 30 quadros por segundo). As de FIM DE MÚSICA ficam paradas e animam quando você passa o mouse em cima."
+      ]
+    },
+    {
+      "version": "1.29.0",
+      "title": "Fim de música com a cara do BEATMAX",
+      "items": [
+        "NOVO na Loja: estilos de FIM DE MÚSICA para o MAX COMBO e o PERFECT PLAY, cada um com o seu som: Cut-in da Turma (180), Jackpot de Beatcoins (150), Fanfarra 8-bit (120) e Disco de Ouro (200).",
+        "🎁 PRESENTE: o estilo Neon BEATMAX é de graça! Pegue na Loja, seção FIM DE MÚSICA.",
+        "Personalizar › FIM DE MÚSICA: escolha o estilo vendo a prévia animada. No Cut-in dá pra escolher quem aparece (automático pela gear/torcida, aleatório ou uma personagem fixa).",
+        "O estilo do raio com estrela e coroa continua como o padrão (Arcade)."
+      ]
+    },
+    {
+      "version": "1.28.2",
+      "title": "Ajustes",
+      "items": [
+        "Janela de Novidades: a Arya não fica mais cortada no alto da tela e a janela volta a ficar centralizada.",
+        "Pequenos ajustes nas opções de música do menu."
+      ]
+    },
+    {
+      "version": "1.28.1",
+      "title": "MAX COMBO e PERFECT PLAY novos",
+      "items": [
+        "MAX COMBO e PERFECT PLAY com animação nova: um raio cai na pista, o letreiro gigante despenca com explosões saindo dos lados da gear e, em seguida, vira um selo com estrela e coroa. Tudo com som (estalo, pancada e o \"plim\" do selo).",
+        "A tela de resultados espera a animação terminar (cerca de 4 segundos) só quando você faz MAX COMBO ou PERFECT PLAY.",
+        "Configurações › Temas › \"Animação no fim da música\" continua com a opção Simples (como antes)."
+      ]
+    },
+    {
+      "version": "1.28.0",
+      "title": "Preparativos para dezembro 🎄",
+      "items": [
+        "Tem coisa sendo embrulhada por aqui… Volte no dia 1º de dezembro. 🎁",
+        "Ajustes internos e correções."
+      ]
+    },
+    {
+      "version": "1.27.3",
+      "title": "Ajustes internos",
+      "items": [
+        "Pequenos ajustes internos e correções."
+      ]
+    },
+    {
+      "version": "1.27.2",
+      "title": "Troca de gear corrigida e efeitos do FEVER liberados",
+      "items": [
+        "CORRIGIDO: ao trocar de gear, o fundo e os efeitos da gear anterior (como as caveiras e fantasmas do Beatjuicy) continuavam na tela. Agora \"Igual à gear\" volta a valer sempre que você troca de gear; a combinação de efeitos só fica ativa quando você monta uma de propósito em Personalizar.",
+        "EFEITOS DO FEVER LIBERADOS: saíram da Loja e estão todos disponíveis em Personalizar › FEVER, de graça.",
+        "MAIS LEVE: maldições do Halloween, fantasminhas da torcida do Beatjuicy e as partículas da gear dele agora usam desenhos prontos em vez de calcular brilho e emoji a cada quadro."
+      ]
+    },
+    {
+      "version": "1.27.1",
+      "title": "FEVER mais sutil e jogo mais leve",
+      "items": [
+        "FEVER NO JEITO DJMAX: o multiplicador (x2…x5) aparece no meio da pista só quando sobe de nível, com um som, e some em ~1 segundo. O efeito escolhido (Raio, Chama, Aurora…) acompanha só esse momento. Depois fica apenas um brilho leve embaixo da pista e a barrinha do lado.",
+        "Configurações › Temas: \"Visual do FEVER\" (Sutil ou Forte, como era antes), \"Multiplicador na pista\" e \"Som ao subir o FEVER\".",
+        "MAIS LEVE: as Gears da Turma (Beatjuicy, Arya, Iris, Echo, Jade) desenhavam a personagem, o fundo e as linhas de tela de novo a cada quadro. Agora isso fica pronto numa imagem só, e as caveiras, assombrações e partículas não usam mais brilho calculado na hora. Bem menos travamento."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.9.1",
+  "notes": "Calibrador BEATMAX (Configurações › Sincronia): as notas caem na sua gear e velocidade por cerca de 30 segundos e o jogo calcula e aplica o Ajuste de Julgamento sozinho. Avisos claros de início e fim: contagem PREPARE-SE 3-2-1, COMEÇOU!, tempo restante durante a coleta, TERMINA EM 3-2-1 e FIM DA COLETA (com dois bipes). O resultado mostra o ajuste, a variação dos toques e a consistência; descarta o aquecimento e os toques muito fora, e não aplica se os toques variarem demais. Botão pra calibrar também numa segunda velocidade, ativando a compensação automática por velocidade. Dá pra desfazer. A calibração antiga continua como \"Com áudio (música)\", que também acerta o Offset de Áudio.",
+  "title": "Calibrador BEATMAX automático",
+  "items": [
+    "Calibrador BEATMAX (Configurações › Sincronia): as notas caem na sua gear e velocidade por cerca de 30 segundos e o jogo calcula e aplica o Ajuste de Julgamento sozinho.",
+    "Avisos claros de início e fim: contagem PREPARE-SE 3-2-1, COMEÇOU!, tempo restante durante a coleta, TERMINA EM 3-2-1 e FIM DA COLETA (com dois bipes).",
+    "O resultado mostra o ajuste, a variação dos toques e a consistência; descarta o aquecimento e os toques muito fora, e não aplica se os toques variarem demais.",
+    "Botão pra calibrar também numa segunda velocidade, ativando a compensação automática por velocidade. Dá pra desfazer.",
+    "A calibração antiga continua como \"Com áudio (música)\", que também acerta o Offset de Áudio."
+  ],
+  "zip": "djmax-training-1.9.1.zip",
+  "sha256": "637945d635cb6aca8773fc5062de2ed3073b9569efa7c668d6555a2086f6d03a"
+}

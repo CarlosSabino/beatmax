@@ -1,0 +1,45 @@
+{
+  "version": "1.22.5",
+  "notes": "DESEMPENHO: fora da partida o jogo parou de desenhar a gear escondida atrás dos menus (era desenhada 60 vezes por segundo à toa). O menu inicial ficou bem mais leve e o vídeo da Arya roda liso. A prévia da música da tela de seleção não continua mais tocando junto com o lo-fi quando você volta pro menu inicial. Ao voltar pra seleção, a prévia da música selecionada recomeça. SPEED na seleção: o número agora muda na hora (antes só atualizava depois). Passe o mouse em cima do SPEED e use a roda pra subir/descer (Shift + roda: de 0.5 em 0.5). As teclas 1 e 2 continuam valendo.",
+  "title": "Menu mais leve e speed na roda do mouse",
+  "items": [
+    "DESEMPENHO: fora da partida o jogo parou de desenhar a gear escondida atrás dos menus (era desenhada 60 vezes por segundo à toa). O menu inicial ficou bem mais leve e o vídeo da Arya roda liso.",
+    "A prévia da música da tela de seleção não continua mais tocando junto com o lo-fi quando você volta pro menu inicial. Ao voltar pra seleção, a prévia da música selecionada recomeça.",
+    "SPEED na seleção: o número agora muda na hora (antes só atualizava depois). Passe o mouse em cima do SPEED e use a roda pra subir/descer (Shift + roda: de 0.5 em 0.5). As teclas 1 e 2 continuam valendo."
+  ],
+  "zip": "djmax-training-1.22.5.zip",
+  "sha256": "50adab2d1994e24e890b6ccd0cc8456786cb0fc03d4f072fe6adb31e93ab4c79",
+  "historico": [
+    {
+      "version": "1.22.4",
+      "title": "Música do menu à sua escolha",
+      "items": [
+        "MÚSICA DO MENU INICIAL (Configurações › Áudio): escolha entre o lo-fi da Arya, uma música sua fixa, uma aleatória das suas músicas (muda a cada volta ao menu) ou sem música. As músicas começam no trecho de prévia.",
+        "O vídeo e a música do menu agora só começam depois da abertura.",
+        "Vídeo do menu mais leve: usa o decodificador da placa de vídeo e só aparece quando já está pronto pra rodar liso (sem travadinhas no começo).",
+        "Tirado o balão de fala da Arya do menu inicial (com o vídeo de fundo ficava estranho).",
+        "Os balões de fala da Iris, Echo e Arya nas outras telas agora ficam em cima da cabeça delas, do lado esquerdo, sem cobrir as informações da janela."
+      ]
+    },
+    {
+      "version": "1.22.3",
+      "title": "Arya lo-fi no menu e ranking por dificuldade",
+      "items": [
+        "MENU INICIAL LO-FI: a Arya agora fica ouvindo música no fundo do menu, em vídeo com loop contínuo e trilha instrumental própria. O botão LO-FI (canto direito, acima da barra) liga/desliga o som, e a escolha fica lembrada.",
+        "O som do lo-fi segue o volume da música das Configurações e para sozinho quando você vai pra lista de músicas ou começa a jogar.",
+        "RANKING: agora mostra as mesmas dificuldades da lista de músicas (EASY, NORMAL, HARD, EXPERT, MASTER com o nível). Clique nelas ou use ← → pra ver o ranking de cada uma.",
+        "No ranking, o JULGAMENTO (Normal, Difícil, Máximo) ficou identificado separado: é a janela de tempo dos acertos, não a dificuldade da música. Tab troca a aba e Shift troca o julgamento."
+      ]
+    },
+    {
+      "version": "1.22.2",
+      "title": "Teste de visual mais longo e atualizações mais rápidas",
+      "items": [
+        "A prévia do Personalizar agora desenha a gear igualzinha à do jogo (mesmas proporções, painel, notas longas e efeitos).",
+        "O teste de visual agora dura 45 segundos, com contador na tela, aviso nos últimos 10 segundos e saída suave (\"FIM DO TESTE\") de volta pro Personalizar.",
+        "Corrigido: o teste de visual podia virar uma partida normal e contar pontos/EXP. Agora nada conta durante o teste e você não 'morre' no meio dele.",
+        "Atualizações: o jogo agora confere novas versões ao abrir e a cada 30 minutos (antes podia demorar horas pra perceber)."
+      ]
+    }
+  ]
+}

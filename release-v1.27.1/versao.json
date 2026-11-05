@@ -1,0 +1,12 @@
+{
+  "version": "1.27.1",
+  "notes": "FEVER NO JEITO DJMAX: o multiplicador (x2…x5) aparece no meio da pista só quando sobe de nível, com um som, e some em ~1 segundo. O efeito escolhido (Raio, Chama, Aurora…) acompanha só esse momento. Depois fica apenas um brilho leve embaixo da pista e a barrinha do lado. Configurações › Temas: \"Visual do FEVER\" (Sutil ou Forte, como era antes), \"Multiplicador na pista\" e \"Som ao subir o FEVER\". MAIS LEVE: as Gears da Turma (Beatjuicy, Arya, Iris, Echo, Jade) desenhavam a personagem, o fundo e as linhas de tela de novo a cada quadro. Agora isso fica pronto numa imagem só, e as caveiras, assombrações e partículas não usam mais brilho calculado na hora. Bem menos travamento.",
+  "title": "FEVER mais sutil e jogo mais leve",
+  "items": [
+    "FEVER NO JEITO DJMAX: o multiplicador (x2…x5) aparece no meio da pista só quando sobe de nível, com um som, e some em ~1 segundo. O efeito escolhido (Raio, Chama, Aurora…) acompanha só esse momento. Depois fica apenas um brilho leve embaixo da pista e a barrinha do lado.",
+    "Configurações › Temas: \"Visual do FEVER\" (Sutil ou Forte, como era antes), \"Multiplicador na pista\" e \"Som ao subir o FEVER\".",
+    "MAIS LEVE: as Gears da Turma (Beatjuicy, Arya, Iris, Echo, Jade) desenhavam a personagem, o fundo e as linhas de tela de novo a cada quadro. Agora isso fica pronto numa imagem só, e as caveiras, assombrações e partículas não usam mais brilho calculado na hora. Bem menos travamento."
+  ],
+  "zip": "djmax-training-1.27.1.zip",
+  "sha256": "88e9c35701b0b13f5ea6573a6421c878683efd828a27892784aed2d366d63006"
+}

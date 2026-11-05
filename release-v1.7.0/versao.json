@@ -1,0 +1,6 @@
+{
+  "version": "1.7.0",
+  "notes": "Nova tela de conclusão no estilo DJMAX (julgamento detalhado, emblema do rank, recorde e últimas partidas, timing, pontos fracos com treino em loop); análise detalhada na tecla D.",
+  "zip": "djmax-training-1.7.0.zip",
+  "sha256": "09a864a4e0390afe7c9df5698ebed33d5975e9b74428aabf13593cf12db623bb"
+}

@@ -1,0 +1,13 @@
+{
+  "version": "1.22.2",
+  "notes": "A prévia do Personalizar agora desenha a gear igualzinha à do jogo (mesmas proporções, painel, notas longas e efeitos). O teste de visual agora dura 45 segundos, com contador na tela, aviso nos últimos 10 segundos e saída suave (\"FIM DO TESTE\") de volta pro Personalizar. Corrigido: o teste de visual podia virar uma partida normal e contar pontos/EXP. Agora nada conta durante o teste e você não 'morre' no meio dele. Atualizações: o jogo agora confere novas versões ao abrir e a cada 30 minutos (antes podia demorar horas pra perceber).",
+  "title": "Teste de visual mais longo e atualizações mais rápidas",
+  "items": [
+    "A prévia do Personalizar agora desenha a gear igualzinha à do jogo (mesmas proporções, painel, notas longas e efeitos).",
+    "O teste de visual agora dura 45 segundos, com contador na tela, aviso nos últimos 10 segundos e saída suave (\"FIM DO TESTE\") de volta pro Personalizar.",
+    "Corrigido: o teste de visual podia virar uma partida normal e contar pontos/EXP. Agora nada conta durante o teste e você não 'morre' no meio dele.",
+    "Atualizações: o jogo agora confere novas versões ao abrir e a cada 30 minutos (antes podia demorar horas pra perceber)."
+  ],
+  "zip": "djmax-training-1.22.2.zip",
+  "sha256": "5d01b438d1d68bf8cf55903be175ab37bac56e181b350e414089b66e65da29ff"
+}

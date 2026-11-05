@@ -1,0 +1,25 @@
+{
+  "version": "1.24.0",
+  "notes": "NOVA PERSONAGEM: JADE, a artista da turma! Ela fica no PERSONALIZAR, comenta as suas combinações e dá dicas. TORCIDA 8-BIT (Loja): Arya, Jade, Iris e Echo em pixel ao lado da gear, com qualquer gear. Balançam no ritmo, pulam a cada acerto, comemoram a cada 50 de combo e levam um susto no BREAK. Cada uma tem o seu jeito: Arya solta notas musicais, Jade grafita o ar com spray, Iris manda corações e Echo solta dados e porcentagens. No Personalizar, a parte TORCIDA 8-BIT escolhe quem fica na ESQUERDA e na DIREITA (Tab troca o lado). Dá pra testar na pista antes de comprar. NOVA GEAR: GRAFITE DA JADE — muros de concreto que vão sendo grafitados com respingos neon a cada acerto.",
+  "title": "Chegou a Jade + Torcida 8-bit",
+  "items": [
+    "NOVA PERSONAGEM: JADE, a artista da turma! Ela fica no PERSONALIZAR, comenta as suas combinações e dá dicas.",
+    "TORCIDA 8-BIT (Loja): Arya, Jade, Iris e Echo em pixel ao lado da gear, com qualquer gear. Balançam no ritmo, pulam a cada acerto, comemoram a cada 50 de combo e levam um susto no BREAK.",
+    "Cada uma tem o seu jeito: Arya solta notas musicais, Jade grafita o ar com spray, Iris manda corações e Echo solta dados e porcentagens.",
+    "No Personalizar, a parte TORCIDA 8-BIT escolhe quem fica na ESQUERDA e na DIREITA (Tab troca o lado). Dá pra testar na pista antes de comprar.",
+    "NOVA GEAR: GRAFITE DA JADE — muros de concreto que vão sendo grafitados com respingos neon a cada acerto."
+  ],
+  "zip": "djmax-training-1.24.0.zip",
+  "sha256": "e30bb82e409807397379cf0345a4806e864bcde99cda8cd17e29b40830d05028",
+  "historico": [
+    {
+      "version": "1.23.1",
+      "title": "Ajustes do progresso na nuvem",
+      "items": [
+        "O progresso que chega da nuvem agora é aplicado na hora, SEM reiniciar o jogo (e nunca no meio da música).",
+        "O convite do Desafio do dia agora aparece na tela de seleção de músicas, depois da abertura (não mais junto com ela).",
+        "Telas com personagem (Nível, Ranking, Loja, Desafios) se ajustam melhor em telas menores: a personagem fica proporcional e o balão de fala não sai mais da tela."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "version": "1.8.0",
+  "notes": "Chart Editor repaginado: régua de linhas (clique seleciona a linha inteira, arraste várias, duplo clique o compasso, botão direito apaga), painel Trecho (selecionar/limpar entre seções e pins), Alt+botão direito apaga só uma coluna, cabeçalho das trilhas alinhado, grade mais larga, dicas e atalhos legíveis (F1), editor em tela cheia.",
+  "zip": "djmax-training-1.8.0.zip",
+  "sha256": "4cae72f2fa8ae206d365e964f0c5033380195b4fdd99baa4698034a73d9036ed"
+}

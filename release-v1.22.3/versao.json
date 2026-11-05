@@ -1,0 +1,25 @@
+{
+  "version": "1.22.3",
+  "notes": "MENU INICIAL LO-FI: a Arya agora fica ouvindo música no fundo do menu, em vídeo com loop contínuo e trilha instrumental própria. O botão LO-FI (canto direito, acima da barra) liga/desliga o som, e a escolha fica lembrada. O som do lo-fi segue o volume da música das Configurações e para sozinho quando você vai pra lista de músicas ou começa a jogar. RANKING: agora mostra as mesmas dificuldades da lista de músicas (EASY, NORMAL, HARD, EXPERT, MASTER com o nível). Clique nelas ou use ← → pra ver o ranking de cada uma. No ranking, o JULGAMENTO (Normal, Difícil, Máximo) ficou identificado separado: é a janela de tempo dos acertos, não a dificuldade da música. Tab troca a aba e Shift troca o julgamento.",
+  "title": "Arya lo-fi no menu e ranking por dificuldade",
+  "items": [
+    "MENU INICIAL LO-FI: a Arya agora fica ouvindo música no fundo do menu, em vídeo com loop contínuo e trilha instrumental própria. O botão LO-FI (canto direito, acima da barra) liga/desliga o som, e a escolha fica lembrada.",
+    "O som do lo-fi segue o volume da música das Configurações e para sozinho quando você vai pra lista de músicas ou começa a jogar.",
+    "RANKING: agora mostra as mesmas dificuldades da lista de músicas (EASY, NORMAL, HARD, EXPERT, MASTER com o nível). Clique nelas ou use ← → pra ver o ranking de cada uma.",
+    "No ranking, o JULGAMENTO (Normal, Difícil, Máximo) ficou identificado separado: é a janela de tempo dos acertos, não a dificuldade da música. Tab troca a aba e Shift troca o julgamento."
+  ],
+  "zip": "djmax-training-1.22.3.zip",
+  "sha256": "abe62fbc4e27e4a362046b3cacf70f43c2eb6db2058b392714b459a8ca81363a",
+  "historico": [
+    {
+      "version": "1.22.2",
+      "title": "Teste de visual mais longo e atualizações mais rápidas",
+      "items": [
+        "A prévia do Personalizar agora desenha a gear igualzinha à do jogo (mesmas proporções, painel, notas longas e efeitos).",
+        "O teste de visual agora dura 45 segundos, com contador na tela, aviso nos últimos 10 segundos e saída suave (\"FIM DO TESTE\") de volta pro Personalizar.",
+        "Corrigido: o teste de visual podia virar uma partida normal e contar pontos/EXP. Agora nada conta durante o teste e você não 'morre' no meio dele.",
+        "Atualizações: o jogo agora confere novas versões ao abrir e a cada 30 minutos (antes podia demorar horas pra perceber)."
+      ]
+    }
+  ]
+}

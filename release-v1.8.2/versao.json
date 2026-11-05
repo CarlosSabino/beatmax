@@ -1,0 +1,12 @@
+{
+  "version": "1.8.2",
+  "notes": "Nova tela de Novidades: mostra tudo o que mudou em cada versão, inclusive a próxima que estiver disponível. Depois de uma atualização (automática ou não), o jogo mostra sozinho o que mudou na primeira vez que abrir. Ícone de presente ao lado da versão, com um pontinho quando tem novidade que você ainda não viu.",
+  "title": "Novidades no jogo",
+  "items": [
+    "Nova tela de Novidades: mostra tudo o que mudou em cada versão, inclusive a próxima que estiver disponível.",
+    "Depois de uma atualização (automática ou não), o jogo mostra sozinho o que mudou na primeira vez que abrir.",
+    "Ícone de presente ao lado da versão, com um pontinho quando tem novidade que você ainda não viu."
+  ],
+  "zip": "djmax-training-1.8.2.zip",
+  "sha256": "8b7152499162528cd3579ba2a22620ffec116340a6535756db92bc5c5df16b09"
+}

@@ -1,0 +1,6 @@
+{
+  "version": "1.4.2",
+  "notes": "Corrige 'Sem espaço pra salvar' no Personalizador: charts e skins passam a ser guardados no IndexedDB (sem o limite de ~5 MB).",
+  "zip": "djmax-training-1.4.2.zip",
+  "sha256": "b61db0a66f5707c4bcd570cc9deb502bdf6163f171a3b50b7307427ac7c67daa"
+}

@@ -1,0 +1,6 @@
+{
+  "version": "1.8.1",
+  "notes": "Botão Sair: avisa e oferece backup das suas músicas antes de fechar quando o último backup está desatualizado (se estiver em dia, só fecha). Personalizar gear: controle de velocidade das notas na prévia (começa na sua velocidade do jogo, com botão pra usar a nova no jogo).",
+  "zip": "djmax-training-1.8.1.zip",
+  "sha256": "3aa477ccfe5392b255bbe9c10332774999742d79970f7e99c8217865d5af2b12"
+}

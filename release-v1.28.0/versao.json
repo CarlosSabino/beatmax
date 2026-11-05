@@ -1,0 +1,38 @@
+{
+  "version": "1.28.0",
+  "notes": "Tem coisa sendo embrulhada por aqui… Volte no dia 1º de dezembro. 🎁 Ajustes internos e correções.",
+  "title": "Preparativos para dezembro 🎄",
+  "items": [
+    "Tem coisa sendo embrulhada por aqui… Volte no dia 1º de dezembro. 🎁",
+    "Ajustes internos e correções."
+  ],
+  "zip": "djmax-training-1.28.0.zip",
+  "sha256": "af61e6ea06e87f1b80f0b05a1b5a92a221382dc10e0e18a23c693037f13bda15",
+  "historico": [
+    {
+      "version": "1.27.3",
+      "title": "Ajustes internos",
+      "items": [
+        "Pequenos ajustes internos e correções."
+      ]
+    },
+    {
+      "version": "1.27.2",
+      "title": "Troca de gear corrigida e efeitos do FEVER liberados",
+      "items": [
+        "CORRIGIDO: ao trocar de gear, o fundo e os efeitos da gear anterior (como as caveiras e fantasmas do Beatjuicy) continuavam na tela. Agora \"Igual à gear\" volta a valer sempre que você troca de gear; a combinação de efeitos só fica ativa quando você monta uma de propósito em Personalizar.",
+        "EFEITOS DO FEVER LIBERADOS: saíram da Loja e estão todos disponíveis em Personalizar › FEVER, de graça.",
+        "MAIS LEVE: maldições do Halloween, fantasminhas da torcida do Beatjuicy e as partículas da gear dele agora usam desenhos prontos em vez de calcular brilho e emoji a cada quadro."
+      ]
+    },
+    {
+      "version": "1.27.1",
+      "title": "FEVER mais sutil e jogo mais leve",
+      "items": [
+        "FEVER NO JEITO DJMAX: o multiplicador (x2…x5) aparece no meio da pista só quando sobe de nível, com um som, e some em ~1 segundo. O efeito escolhido (Raio, Chama, Aurora…) acompanha só esse momento. Depois fica apenas um brilho leve embaixo da pista e a barrinha do lado.",
+        "Configurações › Temas: \"Visual do FEVER\" (Sutil ou Forte, como era antes), \"Multiplicador na pista\" e \"Som ao subir o FEVER\".",
+        "MAIS LEVE: as Gears da Turma (Beatjuicy, Arya, Iris, Echo, Jade) desenhavam a personagem, o fundo e as linhas de tela de novo a cada quadro. Agora isso fica pronto numa imagem só, e as caveiras, assombrações e partículas não usam mais brilho calculado na hora. Bem menos travamento."
+      ]
+    }
+  ]
+}
